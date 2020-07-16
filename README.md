@@ -30,3 +30,5 @@ Bleeping Computer
 Wired
 
 The Register
+
+Fortinet
