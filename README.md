@@ -36,3 +36,5 @@ Fortinet
 Black Hills Security
 
 Active Counter-Measures - https://www.activecountermeasures.com/
+
+Scythe - https://www.scythe.io/library
