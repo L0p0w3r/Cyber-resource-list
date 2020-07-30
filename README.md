@@ -3,38 +3,40 @@ Cyber Security resource list
 
 Threat Intel Sources
 ====================
-Anomali
+Anomali - https://www.anomali.com/
 
-Mnemonic
+Mnemonic - https://www.mnemonic.no/
 
-Intel 471
+Intel 471 - https://intel471.com/
 
-Silobreaker
+Silobreaker - https://www.silobreaker.com/
 
-Cisco Talos
+Cisco Talos - https://talosintelligence.com/
 
-Alienvault OTX
+Alienvault OTX - https://cybersecurity.att.com/open-threat-exchange
 
-ThreatConnect
+ThreatConnect - https://threatconnect.com/
 
-Red Canary
+Red Canary - https://redcanary.com/
 
-Randy F Smith
+Randy F Smith - https://www.ultimatewindowssecurity.com/
 
-Redmond AD Watch
+Redmond Mag - https://redmondmag.com/Home.aspx
 
-InfoSecurity Mag
+InfoSecurity Mag - https://www.infosecurity-magazine.com/
 
-Bleeping Computer
+Bleeping Computer - https://www.bleepingcomputer.com/
 
-Wired
+Wired - https://www.wired.co.uk/topic/security
 
-The Register
+The Register - https://www.theregister.com/security/
 
-Fortinet
+Fortinet - https://www.fortinet.com/blog/threat-research
 
-Black Hills Security
+Black Hills Security - https://www.blackhillsinfosec.com/
 
 Active Counter-Measures - https://www.activecountermeasures.com/
 
 Scythe - https://www.scythe.io/library
+
+F-Secure - https://blog.f-secure.com/category/threats-research/
