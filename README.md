@@ -41,6 +41,8 @@ Scythe - https://www.scythe.io/library
 
 F-Secure - https://blog.f-secure.com/category/threats-research/
 
+DomainTools - https://www.domaintools.com/resources
+
 =========================================================================
 
 THREAT INTEL API PROVIDERS
