@@ -43,6 +43,8 @@ F-Secure - https://blog.f-secure.com/category/threats-research/
 
 DomainTools - https://www.domaintools.com/resources
 
+Sophos - https://news.sophos.com/en-us/
+
 =========================================================================
 
 THREAT INTEL API PROVIDERS
