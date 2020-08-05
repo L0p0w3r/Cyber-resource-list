@@ -40,3 +40,20 @@ Active Counter-Measures - https://www.activecountermeasures.com/
 Scythe - https://www.scythe.io/library
 
 F-Secure - https://blog.f-secure.com/category/threats-research/
+
+=========================================================================
+
+THREAT INTEL API PROVIDERS
+==========================
+
+abuse.ch - https://abuse.ch/
+
+ - Malware Bazaar - https://bazaar.abuse.ch/
+ 
+ - Feodo Tracker - https://feodotracker.abuse.ch/
+ 
+ - I Got Phished - https://igotphished.abuse.ch/
+ 
+ - SSL Blacklist - https://sslbl.abuse.ch/
+ 
+ - (Malware) URL Haus - https://urlhaus.abuse.ch/
