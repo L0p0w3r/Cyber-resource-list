@@ -57,3 +57,7 @@ abuse.ch - https://abuse.ch/
  - SSL Blacklist - https://sslbl.abuse.ch/
  
  - (Malware) URL Haus - https://urlhaus.abuse.ch/
+
+Greynoise - https://greynoise.io/
+
+Have I Been Pwned - https://haveibeenpwned.com/
