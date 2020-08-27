@@ -67,3 +67,14 @@ Greynoise - https://greynoise.io/
 Have I Been Pwned - https://haveibeenpwned.com/
 
 Censys - https://censys.io/
+
+=========================================================================
+
+Threat Intelligence Platform Providers
+======================================
+
+RiskIQ - https://www.riskiq.com/
+
+Silobreaker - https://www.silobreaker.com/
+
+Maltego - https://www.maltego.com/
