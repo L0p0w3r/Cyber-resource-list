@@ -45,6 +45,8 @@ DomainTools - https://www.domaintools.com/resources
 
 Sophos - https://news.sophos.com/en-us/
 
+Blueliv - https://blueliv.com/ & https://community.blueliv.com/
+
 =========================================================================
 
 THREAT INTEL API PROVIDERS
