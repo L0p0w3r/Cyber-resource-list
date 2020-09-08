@@ -70,6 +70,10 @@ Have I Been Pwned - https://haveibeenpwned.com/
 
 Censys - https://censys.io/
 
+Phishtank - https://www.phishtank.com/
+
+Openphish - https://openphish.com/
+
 =========================================================================
 
 Threat Intelligence Platform Providers
