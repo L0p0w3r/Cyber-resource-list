@@ -114,6 +114,12 @@ https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
 
 SpecterOps - Bloodhound FOSS - https://github.com/BloodHoundAD/BloodHound
 
+Bloodhound/Cypher Queries:
+
+https://github.com/hausec/Bloodhound-Custom-Queries
+
+https://github.com/SadProcessor
+
 Pingcastle - https://www.pingcastle.com/
 
 Sean Metcalf - Trimarc - AD security don - https://adsecurity.org/
