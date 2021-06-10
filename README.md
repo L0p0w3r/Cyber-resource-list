@@ -131,10 +131,21 @@ AWSPX - AWS effective access & attack paths assessment - https://github.com/FSec
 Azure - Stormspotter - attack graphing tool for Azure by Azure Red Teams - https://github.com/Azure/Stormspotter
 
 
-Security Projects
+Security Posture & Configuration Assessment
 =================
 
 NSA - Unfetter - Mitre-based security posture analysis tool - https://nsacyber.github.io/unfetter/index.html
+
+Mitre:
+
+Offense TTPs - https://attack.mitre.org/
+
+Defense TTPs - https://shield.mitre.org/
+
+Evaluation - products and people - https://mitre-engenuity.org/
+
+Code Analysis
+=============
 
 Checkov - Bridgecrew - Static code analysis for IaC - https://github.com/bridgecrewio/checkov - https://www.checkov.io/
 
