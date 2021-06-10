@@ -47,6 +47,10 @@ Sophos - https://news.sophos.com/en-us/
 
 Blueliv - https://blueliv.com/ & https://community.blueliv.com/
 
+TL;DR Sec - https://tldrsec.com/
+
+Insinuator.net - Walter Legowski aka SadProcessor writes here - https://insinuator.net/
+
 =========================================================================
 
 THREAT INTEL API PROVIDERS
@@ -84,3 +88,71 @@ RiskIQ - https://www.riskiq.com/
 Silobreaker - https://www.silobreaker.com/
 
 Maltego - https://www.maltego.com/
+
+==========================================================================
+
+Container/Docker/Kubernetes Security
+====================================
+
+Clint Gibler - TL;DR Sec - https://tldrsec.com/blog/container-security/
+
+SysDig - https://sysdig.com/
+
+Falco - k8s threat detection - https://sysdig.com/opensource/falco/
+
+Uptycs - cloud & container protection, posture assessment - https://www.uptycs.com/
+
+OSQuery for container detection:
+
+https://www.uptycs.com/blog/get-started-using-osquery-for-container-security
+
+https://developer.ibm.com/technologies/containers/articles/monitoring-containers-osquery/
+
+Peirates - k8s penetration tool - https://www.inguardians.com/peirates/
+
+==========================================================================
+
+AD Security
+===========
+https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
+
+SpecterOps - Bloodhound FOSS - https://github.com/BloodHoundAD/BloodHound
+
+Pingcastle - https://www.pingcastle.com/
+
+Sean Metcalf - Trimarc - AD security don - https://adsecurity.org/
+
+==========================================================================
+
+Cloud Security Tools
+====================
+
+CrowdStrike CRT - Azure/O365 assessment - https://github.com/CrowdStrike/CRT
+
+Sygnia Cloud Scout - AD/Azure AD/AWS assessment tool - https://www.sygnia.co/cloudscout
+
+AWSPX - AWS effective access & attack paths assessment - https://github.com/FSecureLABS/awspx
+
+Azure - Stormspotter - attack graphing tool for Azure by Azure Red Teams - https://github.com/Azure/Stormspotter
+
+===============================================================================
+Security Projects
+=================
+
+NSA - Unfetter - Mitre-based security posture analysis tool - https://nsacyber.github.io/unfetter/index.html
+
+Checkov - Bridgecrew - Static code analysis for IaC - https://github.com/bridgecrewio/checkov - https://www.checkov.io/
+
+=================================================================================
+SIEM
+====
+
+Devo - https://www.devo.com/
+
+Elastic - https://www.elastic.co/
+
+Humio - https://www.humio.com/secops
+
+Sumo Logic - https://www.sumologic.com/solutions/cloud-siem-enterprise/
+
+==========================================================================
