@@ -51,7 +51,6 @@ TL;DR Sec - https://tldrsec.com/
 
 Insinuator.net - Walter Legowski aka SadProcessor writes here - https://insinuator.net/
 
-=========================================================================
 
 THREAT INTEL API PROVIDERS
 ==========================
@@ -78,7 +77,6 @@ Phishtank - https://www.phishtank.com/
 
 Openphish - https://openphish.com/
 
-=========================================================================
 
 Threat Intelligence Platform Providers
 ======================================
@@ -89,7 +87,6 @@ Silobreaker - https://www.silobreaker.com/
 
 Maltego - https://www.maltego.com/
 
-==========================================================================
 
 Container/Docker/Kubernetes Security
 ====================================
@@ -110,7 +107,6 @@ https://developer.ibm.com/technologies/containers/articles/monitoring-containers
 
 Peirates - k8s penetration tool - https://www.inguardians.com/peirates/
 
-==========================================================================
 
 AD Security
 ===========
@@ -122,7 +118,6 @@ Pingcastle - https://www.pingcastle.com/
 
 Sean Metcalf - Trimarc - AD security don - https://adsecurity.org/
 
-==========================================================================
 
 Cloud Security Tools
 ====================
@@ -135,7 +130,6 @@ AWSPX - AWS effective access & attack paths assessment - https://github.com/FSec
 
 Azure - Stormspotter - attack graphing tool for Azure by Azure Red Teams - https://github.com/Azure/Stormspotter
 
-===============================================================================
 
 Security Projects
 =================
@@ -144,7 +138,6 @@ NSA - Unfetter - Mitre-based security posture analysis tool - https://nsacyber.g
 
 Checkov - Bridgecrew - Static code analysis for IaC - https://github.com/bridgecrewio/checkov - https://www.checkov.io/
 
-=================================================================================
 
 SIEM
 ====
@@ -157,4 +150,3 @@ Humio - https://www.humio.com/secops
 
 Sumo Logic - https://www.sumologic.com/solutions/cloud-siem-enterprise/
 
-==========================================================================
