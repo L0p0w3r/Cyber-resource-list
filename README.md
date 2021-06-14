@@ -87,6 +87,10 @@ Silobreaker - https://www.silobreaker.com/
 
 Maltego - https://www.maltego.com/
 
+Tools - Documentation
+==
+
+Diagram as Code - https://github.com/mingrammer/diagrams
 
 Container/Docker/Kubernetes Security
 ====================================
@@ -107,6 +111,7 @@ https://developer.ibm.com/technologies/containers/articles/monitoring-containers
 
 Peirates - k8s penetration tool - https://www.inguardians.com/peirates/
 
+Kubesploit - C2 for container environments - https://github.com/cyberark/kubesploit
 
 AD Security
 ===========
@@ -119,6 +124,8 @@ Bloodhound/Cypher Queries:
 https://github.com/hausec/Bloodhound-Custom-Queries
 
 https://github.com/SadProcessor
+
+https://github.com/improsec/ImproHound - https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations
 
 Pingcastle - https://www.pingcastle.com/
 
@@ -138,7 +145,7 @@ Azure - Stormspotter - attack graphing tool for Azure by Azure Red Teams - https
 
 
 Security Posture & Configuration Assessment
-=================
+==
 
 NSA - Unfetter - Mitre-based security posture analysis tool - https://nsacyber.github.io/unfetter/index.html
 
@@ -150,14 +157,16 @@ Defense TTPs - https://shield.mitre.org/
 
 Evaluation - products and people - https://mitre-engenuity.org/
 
+Attack2Neo - import Mitre into Neo4j - https://github.com/vmapps/attack2neo
+
 Code Analysis
-=============
+==
 
 Checkov - Bridgecrew - Static code analysis for IaC - https://github.com/bridgecrewio/checkov - https://www.checkov.io/
 
 
 SIEM
-====
+==
 
 Devo - https://www.devo.com/
 
@@ -166,4 +175,21 @@ Elastic - https://www.elastic.co/
 Humio - https://www.humio.com/secops
 
 Sumo Logic - https://www.sumologic.com/solutions/cloud-siem-enterprise/
+
+SOAR
+==
+
+Shuffle - FOSS SOAR - https://github.com/frikky/Shuffle
+
+Tines - limited community version plus paid SOAR - https://www.tines.com/
+
+Vulnerability Management
+==
+
+Nuclei - FOSS vuln scanner - https://github.com/projectdiscovery/nuclei
+
+Defensive Tools - Detection
+==
+
+Sysmon config pusher - https://github.com/LaresLLC/SysmonConfigPusher
 
