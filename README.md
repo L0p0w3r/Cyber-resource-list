@@ -116,6 +116,8 @@ Peirates - k8s penetration tool - https://www.inguardians.com/peirates/
 
 Kubesploit - C2 for container environments - https://github.com/cyberark/kubesploit
 
+Popeye - K8s config & best practise scanner - https://github.com/derailed/popeye
+
 AD Security
 ===========
 https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
