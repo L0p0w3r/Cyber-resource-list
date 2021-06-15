@@ -167,6 +167,7 @@ Code Analysis
 
 Checkov - Bridgecrew - Static code analysis for IaC - https://github.com/bridgecrewio/checkov - https://www.checkov.io/
 
+TFSec - Terraform static analysis - https://github.com/tfsec/tfsec
 
 SIEM
 ==
@@ -195,4 +196,5 @@ Defensive Tools - Detection
 ==
 
 Sysmon config pusher - https://github.com/LaresLLC/SysmonConfigPusher
+
 
