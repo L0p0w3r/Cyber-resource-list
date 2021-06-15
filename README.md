@@ -169,6 +169,8 @@ Checkov - Bridgecrew - Static code analysis for IaC - https://github.com/bridgec
 
 TFSec - Terraform static analysis - https://github.com/tfsec/tfsec
 
+TFLint - Terraform error & best practise scanner - https://github.com/terraform-linters/tflint
+
 SIEM
 ==
 
