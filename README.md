@@ -191,6 +191,17 @@ Shuffle - FOSS SOAR - https://github.com/frikky/Shuffle
 
 Tines - limited community version plus paid SOAR - https://www.tines.com/
 
+Threat Emulation
+==
+
+Atomic Red Team - https://atomicredteam.io/ - https://github.com/redcanaryco/atomic-red-team
+
+Prelude - Atomic Red Team in your environment - https://www.prelude.org/platform/community
+
+Thremulation - Atomic Red Team with ELK & sandbox - https://www.thremulation.io/ - https://github.com/thremulation-station/thremulation-station
+
+Mitre Caldera - https://www.mitre.org/research/technology-transfer/open-source-software/caldera%E2%84%A2 - https://github.com/mitre/caldera
+
 Vulnerability Management
 ==
 
