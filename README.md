@@ -184,6 +184,8 @@ Humio - https://www.humio.com/secops
 
 Sumo Logic - https://www.sumologic.com/solutions/cloud-siem-enterprise/
 
+Sigma - platform agnostic SIEM rules - https://github.com/SigmaHQ/sigma - https://www.nextron-systems.com/2018/02/10/write-sigma-rules/
+
 SOAR
 ==
 
