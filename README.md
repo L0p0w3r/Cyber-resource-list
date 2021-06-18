@@ -234,6 +234,8 @@ Suricata - NIDS/NIPS/NSM - https://suricata.io/
 
 Zeek - NIDS/NSM - https://zeek.org/
 
+Snort - NIPS - https://www.snort.org/
+
 Owlh & Wazuh - Uses Snort/Zeek/Suricata data integrated via OwlH into Wazuh adding NIDS to HIDS:
 
 - https://www.owlh.net/
