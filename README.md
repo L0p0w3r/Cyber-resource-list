@@ -142,6 +142,8 @@ Sean Metcalf - Trimarc - AD security don - https://adsecurity.org/
 Cloud Security Tools
 ====================
 
+CloudSecDocs - Resource list for containers, AWS, Azure, GCP, Kafka & DevOps - https://cloudsecdocs.com/
+
 CrowdStrike CRT - Azure/O365 assessment - https://github.com/CrowdStrike/CRT
 
 Sygnia Cloud Scout - AD/Azure AD/AWS assessment tool - https://www.sygnia.co/cloudscout
