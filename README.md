@@ -118,6 +118,8 @@ Kubesploit - C2 for container environments - https://github.com/cyberark/kubespl
 
 Popeye - K8s config & best practise scanner - https://github.com/derailed/popeye
 
+Wazuh - For Docker hosts and containers - https://wazuh.com/#containers-security
+
 AD Security
 ===========
 https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
@@ -148,6 +150,7 @@ AWSPX - AWS effective access & attack paths assessment - https://github.com/FSec
 
 Azure - Stormspotter - attack graphing tool for Azure by Azure Red Teams - https://github.com/Azure/Stormspotter
 
+Wazuh - Azure/AWS/GCP sec data and configuration via API then agents for cloud assets - https://wazuh.com/#cloud-security-monitoring
 
 Security Posture & Configuration Assessment
 ==
@@ -211,12 +214,14 @@ Vulnerability Management
 
 Nuclei - FOSS vuln scanner - https://github.com/projectdiscovery/nuclei
 
+Wazuh (again) - vuln detection and reporting where agent installed - https://wazuh.com/#vulnerability-detection
+
 Endpoint Security
 ==
 
 Sysmon config pusher - https://github.com/LaresLLC/SysmonConfigPusher
 
-Wazuh - HIDS/HIPS/Vulns/FIM/IR/EDR
+Wazuh - HIDS/HIPS/Vulns/FIM/IR/EDR - https://wazuh.com/ - https://documentation.wazuh.com/current/index.html
 
 Network Security
 ==
@@ -226,3 +231,10 @@ Arkime - Packet capture & analysis - https://arkime.com/ - https://github.com/ar
 Suricata - NIDS/NIPS/NSM - https://suricata.io/
 
 Zeek - NIDS/NSM - https://zeek.org/
+
+Owlh & Wazuh - Uses Snort/Zeek/Suricata data integrated via OwlH into Wazuh adding NIDS to HIDS:
+
+- https://www.owlh.net/
+- https://documentation.owlh.net/en/0.17.0/index.html
+- https://documentation.owlh.net/en/0.17.0/main/OwlHWazuh.html
+- https://wazuh.com/owlh-network-ids-integration/
