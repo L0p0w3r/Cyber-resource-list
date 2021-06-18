@@ -211,9 +211,18 @@ Vulnerability Management
 
 Nuclei - FOSS vuln scanner - https://github.com/projectdiscovery/nuclei
 
-Defensive Tools - Detection
+Endpoint Security
 ==
 
 Sysmon config pusher - https://github.com/LaresLLC/SysmonConfigPusher
 
+Wazuh - HIDS/HIPS/Vulns/FIM/IR/EDR
+
+Network Security
+==
+
 Arkime - Packet capture & analysis - https://arkime.com/ - https://github.com/arkime/arkime
+
+Suricata - NIDS/NIPS/NSM - https://suricata.io/
+
+Zeek - NIDS/NSM - https://zeek.org/
