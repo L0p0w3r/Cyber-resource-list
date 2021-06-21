@@ -202,6 +202,10 @@ Shuffle - FOSS SOAR - https://github.com/frikky/Shuffle
 
 Tines - limited community version plus paid SOAR - https://www.tines.com/
 
+Siemplify - community & paid versions - https://www.siemplify.co/
+
+Swimlane - https://swimlane.com/
+
 Threat Emulation
 ==
 
@@ -219,6 +223,8 @@ Vulnerability Management
 Nuclei - FOSS vuln scanner - https://github.com/projectdiscovery/nuclei
 
 Wazuh (again) - vuln detection and reporting where agent installed - https://wazuh.com/#vulnerability-detection
+
+Vulcan - vulnerability remediation automation - https://vulcan.io/integrations/
 
 Endpoint Security
 ==
