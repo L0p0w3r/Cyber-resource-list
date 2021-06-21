@@ -154,6 +154,8 @@ Azure - Stormspotter - attack graphing tool for Azure by Azure Red Teams - https
 
 Wazuh - Azure/AWS/GCP sec data and configuration via API then agents for cloud assets - https://wazuh.com/#cloud-security-monitoring
 
+Microburst - Azure offensive powershell toolset - https://github.com/NetSPI/MicroBurst
+
 Security Posture & Configuration Assessment
 ==
 
