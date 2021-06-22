@@ -279,3 +279,5 @@ Cuckoo Sandbox - FOSS sandbox - https://cuckoosandbox.org/
 Joe Sandbox - online sandbox/analysis - https://www.joesandbox.com/
 
 Lenny Zeltser's list of online malware analysis tools - https://zeltser.com/automated-malware-analysis/
+
+REMnux - malware analysis toolkit OS - https://remnux.org/
