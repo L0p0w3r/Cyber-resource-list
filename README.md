@@ -195,6 +195,8 @@ Sigma - platform agnostic SIEM rules - https://github.com/SigmaHQ/sigma
 - https://www.nextron-systems.com/2018/02/10/write-sigma-rules/ 
 - https://syedhasan010.medium.com/defenders-toolkit-102-sigma-rules-4a623acb2036
 
+Security Onion - Ready made FOSS SIEM - https://securityonionsolutions.com/ - https://github.com/Security-Onion-Solutions/securityonion
+
 SOAR
 ==
 
@@ -250,3 +252,8 @@ Owlh & Wazuh - Uses Snort/Zeek/Suricata data integrated via OwlH into Wazuh addi
 - https://documentation.owlh.net/en/0.17.0/index.html
 - https://documentation.owlh.net/en/0.17.0/main/OwlHWazuh.html
 - https://wazuh.com/owlh-network-ids-integration/
+
+Perimeter Defence
+==
+
+PerimeterX - bot defence, website defence - https://www.perimeterx.com/
