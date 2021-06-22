@@ -54,6 +54,7 @@ TL;DR Sec - https://tldrsec.com/
 
 Insinuator.net - Walter Legowski aka SadProcessor writes here - https://insinuator.net/
 
+SANS instructor Lenny Zeltser's infosec site - https://zeltser.com/
 
 THREAT INTEL API PROVIDERS
 ==========================
@@ -80,6 +81,9 @@ Phishtank - https://www.phishtank.com/
 
 Openphish - https://openphish.com/
 
+Lenny Zeltser's IP blocklist provider list - https://zeltser.com/malicious-ip-blocklists/
+
+Lenny Zeltser's malicious website lookup provider list - https://zeltser.com/lookup-malicious-websites/
 
 Threat Intelligence Platform Providers
 ======================================
@@ -262,3 +266,16 @@ Deception
 ==
 
 Thinkst Canary - decoys/honeytraps - https://canary.tools/
+
+Malware Analysis
+==
+
+Anyrun - online analysis/sandbox - https://any.run/
+
+Hybrid Analysis - online malware anlysis - https://www.hybrid-analysis.com/
+
+Cuckoo Sandbox - FOSS sandbox - https://cuckoosandbox.org/
+
+Joe Sandbox - online sandbox/analysis - https://www.joesandbox.com/
+
+Lenny Zeltser's list of online malware analysis tools - https://zeltser.com/automated-malware-analysis/
