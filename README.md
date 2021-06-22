@@ -257,3 +257,8 @@ Perimeter Defence
 ==
 
 PerimeterX - bot defence, website defence - https://www.perimeterx.com/
+
+Deception
+==
+
+Thinkst Canary - decoys/honeytraps - https://canary.tools/
