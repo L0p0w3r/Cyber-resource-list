@@ -1,0 +1,28 @@
+Crowdstrike Workshop search queries
+
+
+Scenario 1 - Detect malicious use of standard admin tools (LOLBINS/LOLBAS)
+
+earliest=-7d ComputerName=CS-FALCON-OW10 ProcessRollUp2
+
+earliest=-7d aid=1989da72d41a47f5ae63abd62d9c26b2 ProcessRollUp2 | stats count by FileName | sort - count | fields count, FileName
+
+earliest=-7d aid=1989da72d41a47f5ae63abd62d9c26b2 ProcessRollUp2 FileName=net.exe OR FileName=ipconfig.exe OR FileName=whoami.exe OR FileName=quser.exe OR FileName=ping.exe OR FileName=netstat.exe OR FileName=tasklist.exe OR FileName=Hostname.exe OR FileName=at.exe OR FileName=net.exe OR PowerShell.exe| stats count by FileName | sort - count | fields count, FileName
+
+
+Scenario 2 - detect web shells
+
+earliest=-7d aid=e119e1b6e95048ce9e5ca50bddee856f ProcessRollUp2 | stats count by FileName | sort - count | fields count, FileName
+
+earliest=-7d aid=e119e1b6e95048ce9e5ca50bddee856f earliest=-7d ProcessRollUp2 FileName=net.exe OR FileName=ipconfig.exe OR FileName=whoami.exe OR FileName=quser.exe OR FileName=ping.exe OR FileName=netstat.exe OR FileName=tasklist.exe OR FileName=Hostname.exe OR FileName=cmd.exe OR FileName=net.exe OR PowerShell.exe| stats count by FileName | sort - count | fields count, FileName
+
+earliest=-7d aid=e119e1b6e95048ce9e5ca50bddee856f event_simpleName=ProcessRollup2 FileName=powershell.exe (CommandLine=*Invoke-WebRequest* OR CommandLine=*Net.WebClient* OR CommandLine=*Start-BitsTransfer* OR CommandLine=*-enc* OR CommandLine=*encoded*) | table ComputerName UserName FileName CommandLine
+
+
+Scenario 3 - threat hunting on Linux
+
+earliest=-7d aid=09d2a7a912814da5b3050b76f3e46c5f ProcessRollUp2
+
+earliest=-7d aid=09d2a7a912814da5b3050b76f3e46c5f  ProcessRollUp2 | stats count by FileName | sort - count | fields count, FileName
+
+earliest=-7d aid=09d2a7a912814da5b3050b76f3e46c5f ProcessRollUp2 FileName=whoami OR FileName=id OR FileName=netstat OR FileName=wget OR FileName=cat OR FileName=ping OR FileName=touch OR FileName=ps OR FileName=hostname OR FileName=perl OR FileName=python OR FileName=make| stats count by FileName | sort - count | fields count, FileName
