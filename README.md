@@ -167,13 +167,15 @@ NSA - Unfetter - Mitre-based security posture analysis tool - https://nsacyber.g
 
 Mitre:
 
-Offense TTPs - https://attack.mitre.org/
+- Offense TTPs - https://attack.mitre.org/
 
-Defense TTPs - https://shield.mitre.org/
+- Active Defense TTPs - https://shield.mitre.org/
 
-Evaluation - products and people - https://mitre-engenuity.org/
+- Defensive countermeasures - https://d3fend.mitre.org/
 
-Attack2Neo - import Mitre into Neo4j - https://github.com/vmapps/attack2neo
+- Evaluation - products and people - https://mitre-engenuity.org/
+
+- Attack2Neo - import Mitre into Neo4j - https://github.com/vmapps/attack2neo
 
 Code Analysis
 ==
