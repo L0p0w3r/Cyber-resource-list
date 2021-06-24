@@ -190,6 +190,8 @@ Mitre:
 
 - Attack2Neo - import Mitre into Neo4j - https://github.com/vmapps/attack2neo
 
+- Microsoft Attack Surface Analyzer - scan Windows for unsafe changes due to software installs - https://github.com/Microsoft/AttackSurfaceAnalyzer
+
 Code Analysis
 ==
 
