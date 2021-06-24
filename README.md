@@ -279,6 +279,8 @@ Perimeter Defence
 
 PerimeterX - bot defence, website defence - https://www.perimeterx.com/
 
+TypoDetect - discover domain name mutations similar to corporate domain names used for phishing/smishing etc - https://github.com/telefonica/typodetect
+
 Deception
 ==
 
