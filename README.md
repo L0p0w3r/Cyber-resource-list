@@ -142,6 +142,17 @@ Pingcastle - https://www.pingcastle.com/
 
 Sean Metcalf - Trimarc - AD security don - https://adsecurity.org/
 
+SpecterOps - AD, Windows, OSX offensive & defensive tools - https://specterops.io/resources/affiliated-toolsets
+
+Semperis - AD defence & recovery commercial products and blog includes Darren Mar-Elia GPOGuy - https://www.semperis.com/
+
+Purple Knight - free AD security assessment tool from Semperis - https://www.purple-knight.com/
+
+Pingcastle - free/commercial AD security assessment tool from Vincent Letoux - https://www.pingcastle.com/
+
+Stealthbits - AD & data management commercial tools - https://stealthbits.com/active-directory-security-solutions/
+
+Tenable AD - formerly Alsid - https://www.tenable.com/products/tenable-ad
 
 Cloud Security Tools
 ====================
