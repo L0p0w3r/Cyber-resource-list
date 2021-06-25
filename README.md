@@ -258,6 +258,8 @@ Wazuh - HIDS/HIPS/Vulns/FIM/IR/EDR - https://wazuh.com/ - https://documentation.
 
 YARA rules & info collection - https://github.com/InQuest/awesome-yara
 
+Velociraptor - monitor, alert, hunt on endpoints - https://www.velocidex.com/
+
 Network Security
 ==
 
