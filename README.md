@@ -132,9 +132,15 @@ SpecterOps - Bloodhound FOSS - https://github.com/BloodHoundAD/BloodHound
 
 Bloodhound/Cypher Queries:
 
-https://github.com/hausec/Bloodhound-Custom-Queries
+- https://github.com/hausec/Bloodhound-Custom-Queries
 
-https://github.com/SadProcessor
+- https://github.com/SadProcessor
+
+- https://github.com/JoshSchwarz/Bloodhound-Cypher
+
+- https://gist.github.com/jeffmcjunkin/7b4a67bb7dd0cfbfbd83768f3aa6eb12
+
+- https://bloodhoundnotebook.com/notebooks/cypher/queries_notebook.html
 
 https://github.com/improsec/ImproHound - https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations
 
