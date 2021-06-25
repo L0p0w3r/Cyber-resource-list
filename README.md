@@ -196,7 +196,9 @@ Mitre:
 
 - Attack2Neo - import Mitre into Neo4j - https://github.com/vmapps/attack2neo
 
-- Microsoft Attack Surface Analyzer - scan Windows for unsafe changes due to software installs - https://github.com/Microsoft/AttackSurfaceAnalyzer
+- ATT&CK mapping bast practices from US CISA - https://us-cert.cisa.gov/sites/default/files/publications/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf
+
+Microsoft Attack Surface Analyzer - scan Windows for unsafe changes due to software installs - https://github.com/Microsoft/AttackSurfaceAnalyzer
 
 Code Analysis
 ==
