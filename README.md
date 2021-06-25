@@ -256,6 +256,8 @@ Sysmon config pusher - https://github.com/LaresLLC/SysmonConfigPusher
 
 Wazuh - HIDS/HIPS/Vulns/FIM/IR/EDR - https://wazuh.com/ - https://documentation.wazuh.com/current/index.html
 
+YARA rules & info collection - https://github.com/InQuest/awesome-yara
+
 Network Security
 ==
 
