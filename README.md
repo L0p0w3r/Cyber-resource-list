@@ -268,6 +268,8 @@ YARA rules & info collection - https://github.com/InQuest/awesome-yara
 
 Velociraptor - monitor, alert, hunt on endpoints - https://www.velocidex.com/
 
+NCSC - security config packs Win,OSX,iOS,Ubuntu,Android - https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs
+
 Network Security
 ==
 
