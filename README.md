@@ -177,6 +177,8 @@ Wazuh - Azure/AWS/GCP sec data and configuration via API then agents for cloud a
 
 Microburst - Azure offensive powershell toolset - https://github.com/NetSPI/MicroBurst
 
+IAM Zero - suggests least-privilege policies for AWS (Azure/GCP/K8s later) - https://github.com/common-fate/iamzero
+
 Security Posture & Configuration Assessment
 ==
 
