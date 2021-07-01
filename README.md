@@ -274,6 +274,8 @@ Velociraptor - monitor, alert, hunt on endpoints - https://www.velocidex.com/
 
 NCSC - security config packs Win,OSX,iOS,Ubuntu,Android - https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs
 
+Nextron Systems - FOSS/Commercial - Compromise assessment, forensics, IOC scanners - https://www.nextron-systems.com/products/
+
 Network Security
 ==
 
@@ -318,3 +320,5 @@ Joe Sandbox - online sandbox/analysis - https://www.joesandbox.com/
 Lenny Zeltser's list of online malware analysis tools - https://zeltser.com/automated-malware-analysis/
 
 REMnux - malware analysis toolkit OS - https://remnux.org/
+
+Nextron Valhalla - YARA rule feed - https://www.nextron-systems.com/valhalla/
