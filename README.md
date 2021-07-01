@@ -186,21 +186,30 @@ NSA - Unfetter - Mitre-based security posture analysis tool - https://nsacyber.g
 
 Mitre:
 
-- Offense TTPs - https://attack.mitre.org/
+- Offense TTPs 
+- - https://attack.mitre.org/
 
-- Active Defense TTPs - https://shield.mitre.org/
+- Active Defense TTPs 
+- - https://shield.mitre.org/
 
-- Defensive countermeasures - https://d3fend.mitre.org/
+- Defensive countermeasures 
+- - https://d3fend.mitre.org/
 
-- Cyber Analytics Repository - https://car.mitre.org/
+- Cyber Analytics Repository 
+- - https://car.mitre.org/
 
-- Evaluation - products and people - https://mitre-engenuity.org/
+- Evaluation - products and people 
+- - https://mitre-engenuity.org/
 
-- Attack2Neo - import Mitre into Neo4j - https://github.com/vmapps/attack2neo
+- Attack2Neo - import Mitre into Neo4j 
+- - https://github.com/vmapps/attack2neo
 
-- ATT&CK mapping bast practices from US CISA - https://us-cert.cisa.gov/sites/default/files/publications/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf
+- ATT&CK mapping bast practices from US CISA 
+- - https://us-cert.cisa.gov/sites/default/files/publications/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf
 
-- CTID - customise ATT&CK - https://github.com/center-for-threat-informed-defense/attack-workbench-frontend
+- ATT&CK Workbench - CTID's customise/extend ATT&CK tool 
+- - https://github.com/center-for-threat-informed-defense/attack-workbench-frontend 
+- - https://medium.com/mitre-engenuity/att-ck-workbench-a-tool-for-extending-att-ck-e1718cbfe0ef
 
 Microsoft Attack Surface Analyzer - scan Windows for unsafe changes due to software installs - https://github.com/Microsoft/AttackSurfaceAnalyzer
 
@@ -275,6 +284,10 @@ Velociraptor - monitor, alert, hunt on endpoints - https://www.velocidex.com/
 NCSC - security config packs Win,OSX,iOS,Ubuntu,Android - https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs
 
 Nextron Systems - FOSS/Commercial - Compromise assessment, forensics, IOC scanners - https://www.nextron-systems.com/products/
+
+DeepBlueCLI - command line threat hunting on Windows - https://github.com/sans-blue-team/DeepBlueCLI
+
+OpenEDR - Comodo's FOSS EDR - https://openedr.com/
 
 Network Security
 ==
