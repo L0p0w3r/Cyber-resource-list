@@ -337,3 +337,8 @@ Lenny Zeltser's list of online malware analysis tools - https://zeltser.com/auto
 REMnux - malware analysis toolkit OS - https://remnux.org/
 
 Nextron Valhalla - YARA rule feed - https://www.nextron-systems.com/valhalla/
+
+GRC
+==
+
+GRC knowledge list - https://github.com/Arudjreis/awesome-security-GRC
