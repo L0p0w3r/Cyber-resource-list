@@ -250,6 +250,8 @@ Siemplify - community & paid versions - https://www.siemplify.co/
 
 Swimlane - https://swimlane.com/
 
+Jimi - FOSS no-code SOAR - https://github.com/z1pti3/jimi
+
 Threat Emulation
 ==
 
