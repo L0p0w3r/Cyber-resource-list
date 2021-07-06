@@ -239,7 +239,7 @@ Sigma - platform agnostic SIEM rules - https://github.com/SigmaHQ/sigma
 
 Security Onion - Ready made FOSS SIEM - https://securityonionsolutions.com/ - https://github.com/Security-Onion-Solutions/securityonion
 
-SOAR
+SOAR & Automation
 ==
 
 Shuffle - FOSS SOAR - https://github.com/frikky/Shuffle
