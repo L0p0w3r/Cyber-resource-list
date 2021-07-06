@@ -213,6 +213,13 @@ Mitre:
 
 Microsoft Attack Surface Analyzer - scan Windows for unsafe changes due to software installs - https://github.com/Microsoft/AttackSurfaceAnalyzer
 
+Incident Response
+==
+
+Incident Playbook - Playbooks mapped to MITRE - https://github.com/austinsonger/Incident-Playbook
+
+The Hive Project - IR application, docker - https://thehive-project.org/
+
 Code Analysis
 ==
 
