@@ -342,3 +342,8 @@ GRC
 ==
 
 GRC knowledge list - https://github.com/Arudjreis/awesome-security-GRC
+
+Random Useful Sites
+==
+
+https://parsiya.net/ - Go/Golang, blog, hacking, reverse engineering, automation
