@@ -261,6 +261,8 @@ Jimi - FOSS no-code SOAR - https://github.com/z1pti3/jimi
 
 PowerShell Universal & PowerShell Pro Tools - From Ironman Software & Adam Driscoll - https://ironmansoftware.com/
 
+Automation mindset & process article - https://queue.acm.org/detail.cfm?id=3197520
+
 Threat Emulation
 ==
 
