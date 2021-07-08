@@ -259,6 +259,8 @@ Swimlane - https://swimlane.com/
 
 Jimi - FOSS no-code SOAR - https://github.com/z1pti3/jimi
 
+PowerShell Universal & PowerShell Pro Tools - From Ironman Software & Adam Driscoll - https://ironmansoftware.com/
+
 Threat Emulation
 ==
 
