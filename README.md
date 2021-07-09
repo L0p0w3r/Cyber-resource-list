@@ -246,6 +246,8 @@ Sigma - platform agnostic SIEM rules - https://github.com/SigmaHQ/sigma
 
 Security Onion - Ready made FOSS SIEM - https://securityonionsolutions.com/ - https://github.com/Security-Onion-Solutions/securityonion
 
+Vadim Hunter's detection rules - https://github.com/vadim-hunter/Detection-Ideas-Rules
+
 SOAR & Automation
 ==
 
