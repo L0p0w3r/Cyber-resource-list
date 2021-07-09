@@ -327,6 +327,8 @@ Owlh & Wazuh - Uses Snort/Zeek/Suricata data integrated via OwlH into Wazuh addi
 - https://documentation.owlh.net/en/0.17.0/main/OwlHWazuh.html
 - https://wazuh.com/owlh-network-ids-integration/
 
+CISA's Malcolm - FOSS network traffic analysis suite - https://github.com/cisagov/malcolm
+
 Perimeter Defence
 ==
 
