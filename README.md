@@ -304,6 +304,11 @@ DeepBlueCLI - command line threat hunting on Windows - https://github.com/sans-b
 
 OpenEDR - Comodo's FOSS EDR - https://openedr.com/
 
+SilkETW from Fireeye - Event Tracing for Windows telemetry made easier:
+- https://www.fireeye.com/blog/threat-research/2019/03/silketw-because-free-telemetry-is-free.html
+- https://github.com/fireeye/SilkETW
+- https://medium.com/threat-hunters-forge/threat-hunting-with-etw-events-and-helk-part-1-installing-silketw-6eb74815e4a0
+
 Network Security
 ==
 
