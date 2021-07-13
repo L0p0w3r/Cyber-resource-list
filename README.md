@@ -124,6 +124,8 @@ Popeye - K8s config & best practise scanner - https://github.com/derailed/popeye
 
 Wazuh - For Docker hosts and containers - https://wazuh.com/#containers-security
 
+KubiScan - CyberArk's K8s security permissions assessment tool - https://github.com/cyberark/KubiScan
+
 AD Security
 ===========
 https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
@@ -164,6 +166,10 @@ Tenable AD - formerly Alsid - https://www.tenable.com/products/tenable-ad
 
 YossiSassi's AD group change monitoring powershell - https://github.com/YossiSassi/Get-ADGroupChanges
 
+ZBang - CyberArk's AD risk assessment tool - https://github.com/cyberark/zBang
+
+ACLight - CyberArk's AD shadow admins discovery tool - https://github.com/cyberark/ACLight
+
 Cloud Security Tools
 ====================
 
@@ -189,6 +195,8 @@ CloudFormation Guard - IaC templates - https://github.com/aws-cloudformation/clo
 
 CloudMapper - AWS mapper/analyzer - https://github.com/duo-labs/cloudmapper
 
+SkyArk - CyberArk's AWS & Azure permissions analyzer - https://github.com/cyberark/SkyArk
+
 Security Posture & Configuration Assessment
 ==
 
@@ -198,6 +206,7 @@ Mitre:
 
 - Offense TTPs 
 - - https://attack.mitre.org/
+- - https://github.com/mitre-attack/attack-navigator
 
 - Active Defense TTPs 
 - - https://shield.mitre.org/
@@ -284,6 +293,8 @@ Threat Emulation
 ==
 
 Atomic Red Team - https://atomicredteam.io/ - https://github.com/redcanaryco/atomic-red-team
+
+Atomic Threat Coverage - TTPs, SIGMAs & KBs all in one place - https://github.com/atc-project/atomic-threat-coverage
 
 Prelude - Atomic Red Team in your environment - https://www.prelude.org/platform/community
 
