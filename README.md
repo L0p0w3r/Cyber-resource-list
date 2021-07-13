@@ -57,7 +57,7 @@ Insinuator.net - Walter Legowski aka SadProcessor writes here - https://insinuat
 SANS instructor Lenny Zeltser's infosec site - https://zeltser.com/
 
 THREAT INTEL API PROVIDERS
-==========================
+==
 
 abuse.ch - https://abuse.ch/
 
@@ -86,7 +86,7 @@ Lenny Zeltser's IP blocklist provider list - https://zeltser.com/malicious-ip-bl
 Lenny Zeltser's malicious website lookup provider list - https://zeltser.com/lookup-malicious-websites/
 
 Threat Intelligence Platform Providers
-======================================
+==
 
 RiskIQ - https://www.riskiq.com/
 
@@ -100,7 +100,7 @@ Tools - Documentation
 Diagram as Code - https://github.com/mingrammer/diagrams
 
 Container/Docker/Kubernetes Security
-====================================
+==
 
 Clint Gibler - TL;DR Sec - https://tldrsec.com/blog/container-security/
 
@@ -160,6 +160,8 @@ Stealthbits - AD & data management commercial tools - https://stealthbits.com/ac
 
 Tenable AD - formerly Alsid - https://www.tenable.com/products/tenable-ad
 
+YossiSassi's AD group change monitoring powershell - https://github.com/YossiSassi/Get-ADGroupChanges
+
 Cloud Security Tools
 ====================
 
@@ -178,6 +180,10 @@ Wazuh - Azure/AWS/GCP sec data and configuration via API then agents for cloud a
 Microburst - Azure offensive powershell toolset - https://github.com/NetSPI/MicroBurst
 
 IAM Zero - suggests least-privilege policies for AWS (Azure/GCP/K8s later) - https://github.com/common-fate/iamzero
+
+Azure Security Benchmarks - https://github.com/MicrosoftDocs/SecurityBenchmarks
+
+CloudFormation Guard - IaC templates - https://github.com/aws-cloudformation/cloudformation-guard
 
 Security Posture & Configuration Assessment
 ==
@@ -285,6 +291,8 @@ Wazuh (again) - vuln detection and reporting where agent installed - https://waz
 
 Vulcan - vulnerability remediation automation - https://vulcan.io/integrations/
 
+0Patch - micro patch solution - https://0patch.com/
+
 Endpoint Security
 ==
 
@@ -358,12 +366,45 @@ REMnux - malware analysis toolkit OS - https://remnux.org/
 
 Nextron Valhalla - YARA rule feed - https://www.nextron-systems.com/valhalla/
 
+Phishing
+==
+
+PhishCatch - browser ext and API server detects corp pwd use on external sites from Palantir - https://github.com/palantir/phishcatch
+
 GRC
 ==
 
 GRC knowledge list - https://github.com/Arudjreis/awesome-security-GRC
 
+Red Team Tools
+==
+
+Phant0m - Win Event Log Killer - https://github.com/hlldz/Phant0m
+
+Mythic - red team framework - https://github.com/its-a-feature/Mythic
+
+Go/Golang Tools
+==
+
+The Hive Go library - https://github.com/TheHive-Project/TheHive4go
+
+Jira Go library - https://github.com/andygrunwald/go-jira
+
+Jira Go library (another) - https://github.com/go-jira/jira
+
+Tenable.io Go library - https://github.com/whereiskurt/tiogo
+
+Kibana Go library - https://github.com/ewilde/go-kibana
+
+Azure SDK for Go - https://github.com/Azure/azure-sdk-for-go
+
 Random Useful Sites
 ==
 
 https://parsiya.net/ - Go/Golang, blog, hacking, reverse engineering, automation
+
+Purp1eW0lf's Blue Team Notes - https://github.com/Purp1eW0lf/Blue-Team-Notes
+
+US DHS CISA's tools github repos - https://github.com/search?q=user%3Acisagov+&s=stars&type=Repositories
+
+Vincent Yiu's red team tools & tips - https://www.vincentyiu.com/
