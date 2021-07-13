@@ -130,6 +130,8 @@ https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
 
 SpecterOps - Bloodhound FOSS - https://github.com/BloodHoundAD/BloodHound
 
+Dockerised Bloodhound - https://github.com/belane/docker-bloodhound
+
 Bloodhound/Cypher Queries:
 
 - https://github.com/hausec/Bloodhound-Custom-Queries
@@ -185,6 +187,8 @@ Azure Security Benchmarks - https://github.com/MicrosoftDocs/SecurityBenchmarks
 
 CloudFormation Guard - IaC templates - https://github.com/aws-cloudformation/cloudformation-guard
 
+CloudMapper - AWS mapper/analyzer - https://github.com/duo-labs/cloudmapper
+
 Security Posture & Configuration Assessment
 ==
 
@@ -217,7 +221,12 @@ Mitre:
 - - https://github.com/center-for-threat-informed-defense/attack-workbench-frontend 
 - - https://medium.com/mitre-engenuity/att-ck-workbench-a-tool-for-extending-att-ck-e1718cbfe0ef
 
+- ATT&CK DataMap - show potential coverage for Mitre 
+- - https://github.com/olafhartong/ATTACKdatamap
+
 Microsoft Attack Surface Analyzer - scan Windows for unsafe changes due to software installs - https://github.com/Microsoft/AttackSurfaceAnalyzer
+
+Rabobank's DETTECT - Map log sources, detections and attacker behviours to show ATT&CK coverage - https://github.com/rabobank-cdc/DeTTECT
 
 Incident Response
 ==
@@ -394,9 +403,30 @@ Jira Go library (another) - https://github.com/go-jira/jira
 
 Tenable.io Go library - https://github.com/whereiskurt/tiogo
 
+Tenable.io Go library - https://github.com/attwad/nessie
+
+Tenable.io Go library - https://github.com/mistsys/go-tenable
+
+Tenable.io Go library - https://github.com/thathaneydude/go-tenable
+
 Kibana Go library - https://github.com/ewilde/go-kibana
 
+Elasticsearch Go library - https://github.com/elastic/go-elasticsearch
+
 Azure SDK for Go - https://github.com/Azure/azure-sdk-for-go
+
+Harp - Secret management toolchain from Elastic - https://github.com/elastic/harp
+
+Cisco Firepower Go client - https://github.com/buttahtoast/fmcClient
+
+Python Tools
+==
+
+Loguru - Python logging - https://github.com/Delgan/loguru
+
+Tenable Python library - https://github.com/tenable/pyTenable
+
+Tenable Python CLI tool - https://github.com/packetchaos/navi
 
 Random Useful Sites
 ==
