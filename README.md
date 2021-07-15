@@ -396,6 +396,8 @@ GRC
 
 GRC knowledge list - https://github.com/Arudjreis/awesome-security-GRC
 
+Protecht - Enterprise Risk Management software - https://www.protechtgroup.com/en-gb/enterprise-risk-management-software
+
 Red Team Tools
 ==
 
