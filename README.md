@@ -197,6 +197,11 @@ CloudMapper - AWS mapper/analyzer - https://github.com/duo-labs/cloudmapper
 
 SkyArk - CyberArk's AWS & Azure permissions analyzer - https://github.com/cyberark/SkyArk
 
+SaaS Security
+==
+
+Raccoon - Salesforce data visibility assessment tool from NCC - https://github.com/nccgroup/raccoon
+
 Security Posture & Configuration Assessment
 ==
 
