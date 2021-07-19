@@ -136,9 +136,17 @@ Dockerised Bloodhound - https://github.com/belane/docker-bloodhound
 
 Bloodhound/Cypher Queries:
 
+- https://neo4j.com/docs/cypher-refcard/current/
+ 
+- https://blog.cptjesus.com/posts/introtocypher
+
+- https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/
+
 - https://github.com/hausec/Bloodhound-Custom-Queries
 
 - https://github.com/SadProcessor
+
+- https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
 
 - https://github.com/JoshSchwarz/Bloodhound-Cypher
 
@@ -196,6 +204,8 @@ CloudFormation Guard - IaC templates - https://github.com/aws-cloudformation/clo
 CloudMapper - AWS mapper/analyzer - https://github.com/duo-labs/cloudmapper
 
 SkyArk - CyberArk's AWS & Azure permissions analyzer - https://github.com/cyberark/SkyArk
+
+ROADTools - O365 & Azure AD recon tools - https://github.com/dirkjanm/ROADtools
 
 SaaS Security
 ==
@@ -456,3 +466,5 @@ Purp1eW0lf's Blue Team Notes - https://github.com/Purp1eW0lf/Blue-Team-Notes
 US DHS CISA's tools github repos - https://github.com/search?q=user%3Acisagov+&s=stars&type=Repositories
 
 Vincent Yiu's red team tools & tips - https://www.vincentyiu.com/
+
+Dirk-Jan Mollema's blog - AD & AAD stuff - https://dirkjanm.io
