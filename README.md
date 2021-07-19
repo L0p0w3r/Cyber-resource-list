@@ -56,6 +56,8 @@ Insinuator.net - Walter Legowski aka SadProcessor writes here - https://insinuat
 
 SANS instructor Lenny Zeltser's infosec site - https://zeltser.com/
 
+Threat intel source list - https://github.com/hslatman/awesome-threat-intelligence
+
 THREAT INTEL API PROVIDERS
 ==
 
@@ -157,6 +159,8 @@ Bloodhound/Cypher Queries:
 https://github.com/improsec/ImproHound - https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations
 
 BloodCheck - Manage multiple Neo4j DBs & cypher query BH datasets - https://github.com/Mr-B0b/BloodCheck
+
+Use Bloodhound with network data to predict ransomware spread - https://github.com/zeronetworks/BloodHound-Tools
 
 Sean Metcalf - Trimarc - AD security don - https://adsecurity.org/
 
