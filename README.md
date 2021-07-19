@@ -339,6 +339,8 @@ Sysmon config pusher - https://github.com/LaresLLC/SysmonConfigPusher
 
 Wazuh - HIDS/HIPS/Vulns/FIM/IR/EDR - https://wazuh.com/ - https://documentation.wazuh.com/current/index.html
 
+Osquery - SQL queries on endpoints, very powerful - https://github.com/osquery/osquery
+
 YARA rules & info collection - https://github.com/InQuest/awesome-yara
 
 Velociraptor - monitor, alert, hunt on endpoints - https://www.velocidex.com/
