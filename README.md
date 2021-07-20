@@ -469,6 +469,11 @@ Tenable Python library - https://github.com/tenable/pyTenable
 
 Tenable Python CLI tool - https://github.com/packetchaos/navi
 
+Training
+==
+
+Instruqt - cloud tech & cloudsec training modules - https://play.instruqt.com/public
+
 Random Useful Sites
 ==
 
