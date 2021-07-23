@@ -155,10 +155,13 @@ Bloodhound/Cypher Queries:
 - https://gist.github.com/jeffmcjunkin/7b4a67bb7dd0cfbfbd83768f3aa6eb12
 
 - https://bloodhoundnotebook.com/notebooks/cypher/queries_notebook.html
+- https://github.com/Scoubi/BloodhoundAD-Queries
 
 https://github.com/improsec/ImproHound - https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations
 
 BloodCheck - Manage multiple Neo4j DBs & cypher query BH datasets - https://github.com/Mr-B0b/BloodCheck
+
+Plumhound - Bloodhound for blue & purple teams - https://github.com/PlumHound/PlumHound
 
 Use Bloodhound with network data to predict ransomware spread - https://github.com/zeronetworks/BloodHound-Tools
 
@@ -256,6 +259,8 @@ Microsoft Attack Surface Analyzer - scan Windows for unsafe changes due to softw
 
 Rabobank's DETTECT - Map log sources, detections and attacker behviours to show ATT&CK coverage - https://github.com/rabobank-cdc/DeTTECT
 
+Threat Mapping Catalogue - https://github.com/intelforge/tmc
+
 Incident Response
 ==
 
@@ -308,6 +313,9 @@ PowerShell Universal & PowerShell Pro Tools - From Ironman Software & Adam Drisc
 
 Automation mindset & process article - https://queue.acm.org/detail.cfm?id=3197520
 
+Patrowl - FOSS SOAR - https://github.com/Patrowl/PatrowlEngines
+- https://github.com/vletoux/PingCastlePatrOwl - Pingcastle for Patrowl
+
 Threat Emulation
 ==
 
@@ -320,6 +328,16 @@ Prelude - Atomic Red Team in your environment - https://www.prelude.org/platform
 Thremulation - Atomic Red Team with ELK & sandbox - https://www.thremulation.io/ - https://github.com/thremulation-station/thremulation-station
 
 Mitre Caldera - https://www.mitre.org/research/technology-transfer/open-source-software/caldera%E2%84%A2 - https://github.com/mitre/caldera
+
+https://github.com/clong/DetectionLab
+
+https://github.com/OTRF/SimuLand
+
+https://github.com/davidprowe/BadBlood
+
+https://github.com/christophetd/Adaz
+
+https://github.com/OTRF/Blacksmith
 
 Vulnerability Management
 ==
@@ -352,6 +370,8 @@ Nextron Systems - FOSS/Commercial - Compromise assessment, forensics, IOC scanne
 DeepBlueCLI - command line threat hunting on Windows - https://github.com/sans-blue-team/DeepBlueCLI
 
 OpenEDR - Comodo's FOSS EDR - https://openedr.com/
+
+OSSEM - Open Source Security Events Metadata - https://github.com/OTRF/OSSEM
 
 SilkETW from Fireeye - Event Tracing for Windows telemetry made easier:
 - https://www.fireeye.com/blog/threat-research/2019/03/silketw-because-free-telemetry-is-free.html
@@ -432,6 +452,8 @@ Red Team Tools
 Phant0m - Win Event Log Killer - https://github.com/hlldz/Phant0m
 
 Mythic - red team framework - https://github.com/its-a-feature/Mythic
+
+GoFetch - generate attack plans from Bloodhound - https://github.com/GoFetchAD/GoFetch
 
 Go/Golang Tools
 ==
