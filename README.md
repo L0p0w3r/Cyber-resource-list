@@ -128,62 +128,7 @@ Wazuh - For Docker hosts and containers - https://wazuh.com/#containers-security
 
 KubiScan - CyberArk's K8s security permissions assessment tool - https://github.com/cyberark/KubiScan
 
-AD Security
-===========
-https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
 
-SpecterOps - Bloodhound FOSS - https://github.com/BloodHoundAD/BloodHound
-
-Dockerised Bloodhound - https://github.com/belane/docker-bloodhound
-
-Bloodhound/Cypher Queries:
-
-- https://neo4j.com/docs/cypher-refcard/current/
- 
-- https://blog.cptjesus.com/posts/introtocypher
-
-- https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/
-
-- https://github.com/hausec/Bloodhound-Custom-Queries
-
-- https://github.com/SadProcessor
-
-- https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
-
-- https://github.com/JoshSchwarz/Bloodhound-Cypher
-
-- https://gist.github.com/jeffmcjunkin/7b4a67bb7dd0cfbfbd83768f3aa6eb12
-
-- https://bloodhoundnotebook.com/notebooks/cypher/queries_notebook.html
-- https://github.com/Scoubi/BloodhoundAD-Queries
-
-https://github.com/improsec/ImproHound - https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations
-
-BloodCheck - Manage multiple Neo4j DBs & cypher query BH datasets - https://github.com/Mr-B0b/BloodCheck
-
-Plumhound - Bloodhound for blue & purple teams - https://github.com/PlumHound/PlumHound
-
-Use Bloodhound with network data to predict ransomware spread - https://github.com/zeronetworks/BloodHound-Tools
-
-Sean Metcalf - Trimarc - AD security don - https://adsecurity.org/
-
-SpecterOps - AD, Windows, OSX offensive & defensive tools - https://specterops.io/resources/affiliated-toolsets
-
-Semperis - AD defence & recovery commercial products and blog includes Darren Mar-Elia GPOGuy - https://www.semperis.com/
-
-Purple Knight - free AD security assessment tool from Semperis - https://www.purple-knight.com/
-
-Pingcastle - free/commercial AD security assessment tool from Vincent Letoux - https://www.pingcastle.com/
-
-Stealthbits - AD & data management commercial tools - https://stealthbits.com/active-directory-security-solutions/
-
-Tenable AD - formerly Alsid - https://www.tenable.com/products/tenable-ad
-
-YossiSassi's AD group change monitoring powershell - https://github.com/YossiSassi/Get-ADGroupChanges
-
-ZBang - CyberArk's AD risk assessment tool - https://github.com/cyberark/zBang
-
-ACLight - CyberArk's AD shadow admins discovery tool - https://github.com/cyberark/ACLight
 
 Cloud Security Tools
 ====================
@@ -270,6 +215,10 @@ The Hive Project - IR application, docker - https://thehive-project.org/
 
 Code Analysis
 ==
+
+KICS by Checkmarx - https://docs.kics.io/latest - https://github.com/Checkmarx/kics
+
+Trivy by Aqua - https://aquasecurity.github.io/trivy - https://github.com/aquasecurity/trivy
 
 Checkov - Bridgecrew - Static code analysis for IaC - https://github.com/bridgecrewio/checkov - https://www.checkov.io/
 
@@ -504,6 +453,63 @@ https://parsiya.net/ - Go/Golang, blog, hacking, reverse engineering, automation
 Purp1eW0lf's Blue Team Notes - https://github.com/Purp1eW0lf/Blue-Team-Notes
 
 US DHS CISA's tools github repos - https://github.com/search?q=user%3Acisagov+&s=stars&type=Repositories
+
+AD Security
+===========
+https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
+
+SpecterOps - Bloodhound FOSS - https://github.com/BloodHoundAD/BloodHound
+
+Dockerised Bloodhound - https://github.com/belane/docker-bloodhound
+
+Bloodhound/Cypher Queries:
+
+- https://neo4j.com/docs/cypher-refcard/current/
+ 
+- https://blog.cptjesus.com/posts/introtocypher
+
+- https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/
+
+- https://github.com/hausec/Bloodhound-Custom-Queries
+
+- https://github.com/SadProcessor
+
+- https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
+
+- https://github.com/JoshSchwarz/Bloodhound-Cypher
+
+- https://gist.github.com/jeffmcjunkin/7b4a67bb7dd0cfbfbd83768f3aa6eb12
+
+- https://bloodhoundnotebook.com/notebooks/cypher/queries_notebook.html
+- https://github.com/Scoubi/BloodhoundAD-Queries
+
+https://github.com/improsec/ImproHound - https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations
+
+BloodCheck - Manage multiple Neo4j DBs & cypher query BH datasets - https://github.com/Mr-B0b/BloodCheck
+
+Plumhound - Bloodhound for blue & purple teams - https://github.com/PlumHound/PlumHound
+
+Use Bloodhound with network data to predict ransomware spread - https://github.com/zeronetworks/BloodHound-Tools
+
+Sean Metcalf - Trimarc - AD security don - https://adsecurity.org/
+
+SpecterOps - AD, Windows, OSX offensive & defensive tools - https://specterops.io/resources/affiliated-toolsets
+
+Semperis - AD defence & recovery commercial products and blog includes Darren Mar-Elia GPOGuy - https://www.semperis.com/
+
+Purple Knight - free AD security assessment tool from Semperis - https://www.purple-knight.com/
+
+Pingcastle - free/commercial AD security assessment tool from Vincent Letoux - https://www.pingcastle.com/
+
+Stealthbits - AD & data management commercial tools - https://stealthbits.com/active-directory-security-solutions/
+
+Tenable AD - formerly Alsid - https://www.tenable.com/products/tenable-ad
+
+YossiSassi's AD group change monitoring powershell - https://github.com/YossiSassi/Get-ADGroupChanges
+
+ZBang - CyberArk's AD risk assessment tool - https://github.com/cyberark/zBang
+
+ACLight - CyberArk's AD shadow admins discovery tool - https://github.com/cyberark/ACLight
 
 Vincent Yiu's red team tools & tips - https://www.vincentyiu.com/
 
