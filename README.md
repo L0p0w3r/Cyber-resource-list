@@ -3,7 +3,7 @@ Cyber Security resource list
 
 ## What's popular in open source security software:
 
-- Open SOurce Security Index - https://opensourcesecurityindex.io/
+- Open Source Security Index - https://opensourcesecurityindex.io/
 
 Threat Intel Sources
 ====================
