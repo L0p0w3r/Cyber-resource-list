@@ -5,8 +5,7 @@ Cyber Security resource list
 
 - Open Source Security Index - https://opensourcesecurityindex.io/
 
-Threat Intel Sources
-====================
+## Threat Intel Sources
 
 Team Cymru - https://team-cymru.com/
 
