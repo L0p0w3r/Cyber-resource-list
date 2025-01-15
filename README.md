@@ -390,11 +390,11 @@ GRC
 - GRC knowledge list - https://github.com/Arudjreis/awesome-security-GRC
 - Protecht - Enterprise Risk Management software - https://www.protechtgroup.com/en-gb/enterprise-risk-management-software
 - Deciduous - security decision mapping from Ryan Petrich & Kelly Shortridge:
- - https://swagitda.com/deciduous/
- - https://swagitda.com/blog/posts/deciduous-attack-tree-app/
- - https://swagitda.com/blog/posts/security-decision-trees-with-graphviz/
- - https://graphviz.org/
- - https://github.com/rpetrich
+    - https://swagitda.com/deciduous/
+    - https://swagitda.com/blog/posts/deciduous-attack-tree-app/
+    - https://swagitda.com/blog/posts/security-decision-trees-with-graphviz/
+    - https://graphviz.org/
+    - https://github.com/rpetrich
 
 Red Team Tools
 ==
