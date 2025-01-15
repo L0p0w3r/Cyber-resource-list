@@ -387,76 +387,51 @@ PhishCatch - browser ext and API server detects corp pwd use on external sites f
 
 GRC
 ==
-
-GRC knowledge list - https://github.com/Arudjreis/awesome-security-GRC
-
-Protecht - Enterprise Risk Management software - https://www.protechtgroup.com/en-gb/enterprise-risk-management-software
-
-Deciduous - security decision mapping from Ryan Petrich & Kelly Shortridge:
-- https://swagitda.com/deciduous/
-- https://swagitda.com/blog/posts/deciduous-attack-tree-app/
-- https://swagitda.com/blog/posts/security-decision-trees-with-graphviz/
-- https://graphviz.org/
-- https://github.com/rpetrich
+- GRC knowledge list - https://github.com/Arudjreis/awesome-security-GRC
+- Protecht - Enterprise Risk Management software - https://www.protechtgroup.com/en-gb/enterprise-risk-management-software
+- Deciduous - security decision mapping from Ryan Petrich & Kelly Shortridge:
+ - https://swagitda.com/deciduous/
+ - https://swagitda.com/blog/posts/deciduous-attack-tree-app/
+ - https://swagitda.com/blog/posts/security-decision-trees-with-graphviz/
+ - https://graphviz.org/
+ - https://github.com/rpetrich
 
 Red Team Tools
 ==
-
-Phant0m - Win Event Log Killer - https://github.com/hlldz/Phant0m
-
-Mythic - red team framework - https://github.com/its-a-feature/Mythic
-
-GoFetch - generate attack plans from Bloodhound - https://github.com/GoFetchAD/GoFetch
+- Phant0m - Win Event Log Killer - https://github.com/hlldz/Phant0m
+- Mythic - red team framework - https://github.com/its-a-feature/Mythic
+- GoFetch - generate attack plans from Bloodhound - https://github.com/GoFetchAD/GoFetch
 
 Go/Golang Tools
 ==
-
-The Hive Go library - https://github.com/TheHive-Project/TheHive4go
-
-Jira Go library - https://github.com/andygrunwald/go-jira
-
-Jira Go library (another) - https://github.com/go-jira/jira
-
-Tenable.io Go library - https://github.com/whereiskurt/tiogo
-
-Tenable.io Go library - https://github.com/attwad/nessie
-
-Tenable.io Go library - https://github.com/mistsys/go-tenable
-
-Tenable.io Go library - https://github.com/thathaneydude/go-tenable
-
-Kibana Go library - https://github.com/ewilde/go-kibana
-
-Elasticsearch Go library - https://github.com/elastic/go-elasticsearch
-
-Azure SDK for Go - https://github.com/Azure/azure-sdk-for-go
-
-Harp - Secret management toolchain from Elastic - https://github.com/elastic/harp
-
-Cisco Firepower Go client - https://github.com/buttahtoast/fmcClient
+- The Hive Go library - https://github.com/TheHive-Project/TheHive4go
+- Jira Go library - https://github.com/andygrunwald/go-jira
+- Jira Go library (another) - https://github.com/go-jira/jira
+- Tenable.io Go library - https://github.com/whereiskurt/tiogo
+- Tenable.io Go library - https://github.com/attwad/nessie
+- Tenable.io Go library - https://github.com/mistsys/go-tenable
+- Tenable.io Go library - https://github.com/thathaneydude/go-tenable
+- Kibana Go library - https://github.com/ewilde/go-kibana
+- Elasticsearch Go library - https://github.com/elastic/go-elasticsearch
+- Azure SDK for Go - https://github.com/Azure/azure-sdk-for-go
+- Harp - Secret management toolchain from Elastic - https://github.com/elastic/harp
+- Cisco Firepower Go client - https://github.com/buttahtoast/fmcClient
 
 Python Tools
 ==
-
-Loguru - Python logging - https://github.com/Delgan/loguru
-
-Tenable Python library - https://github.com/tenable/pyTenable
-
-Tenable Python CLI tool - https://github.com/packetchaos/navi
+- Loguru - Python logging - https://github.com/Delgan/loguru
+- Tenable Python library - https://github.com/tenable/pyTenable
+- Tenable Python CLI tool - https://github.com/packetchaos/navi
 
 Training
 ==
-
-Instruqt - cloud tech & cloudsec training modules - https://play.instruqt.com/public
+- Instruqt - cloud tech & cloudsec training modules - https://instruqt.com/
 
 Random Useful Sites
 ==
-
-https://parsiya.net/ - Go/Golang, blog, hacking, reverse engineering, automation
-
-Purp1eW0lf's Blue Team Notes - https://github.com/Purp1eW0lf/Blue-Team-Notes
-
-US DHS CISA's tools github repos - https://github.com/search?q=user%3Acisagov+&s=stars&type=Repositories
+- https://parsiya.net/ - Go/Golang, blog, hacking, reverse engineering, automation
+- Purp1eW0lf's Blue Team Notes - https://github.com/Purp1eW0lf/Blue-Team-Notes
+- US DHS CISA's tools github repos - https://github.com/search?q=user%3Acisagov+&s=stars&type=Repositories
 
 AD Security
 ===========
