@@ -2,341 +2,206 @@
 Cyber Security resource list
 
 ## Learning - AppSec
-
-Semgrep Academy - https://academy.semgrep.dev/
-
-IriusRisk - https://learn.iriusrisk.com/library/
-
-Wiz Academy - https://www.wiz.io/academy
+- Semgrep Academy - https://academy.semgrep.dev/
+- IriusRisk - https://learn.iriusrisk.com/library/
+- Wiz Academy - https://www.wiz.io/academy
 
 ## What's popular in open source security software:
-
 - Open Source Security Index - https://opensourcesecurityindex.io/
 
 ## Threat Intel Sources
-
-Team Cymru - https://team-cymru.com/
-
-Anomali - https://www.anomali.com/
-
-Mnemonic - https://www.mnemonic.no/
-
-Intel 471 - https://intel471.com/
-
-Silobreaker - https://www.silobreaker.com/
-
-Cisco Talos - https://talosintelligence.com/
-
-Alienvault OTX - https://cybersecurity.att.com/open-threat-exchange
-
-ThreatConnect - https://threatconnect.com/
-
-Red Canary - https://redcanary.com/
-
-Randy F Smith - https://www.ultimatewindowssecurity.com/
-
-Redmond Mag - https://redmondmag.com/Home.aspx
-
-InfoSecurity Mag - https://www.infosecurity-magazine.com/
-
-Bleeping Computer - https://www.bleepingcomputer.com/
-
-Wired - https://www.wired.co.uk/topic/security
-
-The Register - https://www.theregister.com/security/
-
-Fortinet - https://www.fortinet.com/blog/threat-research
-
-Black Hills Security - https://www.blackhillsinfosec.com/
-
-Active Counter-Measures - https://www.activecountermeasures.com/
-
-Scythe - https://www.scythe.io/library
-
-F-Secure - https://blog.f-secure.com/category/threats-research/
-
-DomainTools - https://www.domaintools.com/resources
-
-Sophos - https://news.sophos.com/en-us/
-
-Blueliv - https://blueliv.com/ & https://community.blueliv.com/
-
-TL;DR Sec - https://tldrsec.com/
-
-Insinuator.net - Walter Legowski aka SadProcessor writes here - https://insinuator.net/
-
-SANS instructor Lenny Zeltser's infosec site - https://zeltser.com/
-
-Threat intel source list - https://github.com/hslatman/awesome-threat-intelligence
+- Team Cymru - https://team-cymru.com/
+- Anomali - https://www.anomali.com/
+- Mnemonic - https://www.mnemonic.no/
+- Intel 471 - https://intel471.com/
+- Silobreaker - https://www.silobreaker.com/
+- Cisco Talos - https://talosintelligence.com/
+- Alienvault OTX - https://cybersecurity.att.com/open-threat-exchange
+- ThreatConnect - https://threatconnect.com/
+- Red Canary - https://redcanary.com/
+- Randy F Smith - https://www.ultimatewindowssecurity.com/
+- Redmond Mag - https://redmondmag.com/Home.aspx
+- InfoSecurity Mag - https://www.infosecurity-magazine.com/
+- Bleeping Computer - https://www.bleepingcomputer.com/
+- Wired - https://www.wired.co.uk/topic/security
+- The Register - https://www.theregister.com/security/
+- Fortinet - https://www.fortinet.com/blog/threat-research
+- Black Hills Security - https://www.blackhillsinfosec.com/
+- Active Counter-Measures - https://www.activecountermeasures.com/
+- Scythe - https://www.scythe.io/library
+- F-Secure - https://blog.f-secure.com/category/threats-research/
+- DomainTools - https://www.domaintools.com/resources
+- Sophos - https://news.sophos.com/en-us/
+- Blueliv - https://blueliv.com/ & https://community.blueliv.com/
+- TL;DR Sec - https://tldrsec.com/
+- Insinuator.net - Walter Legowski aka SadProcessor writes here - https://insinuator.net/
+- SANS instructor Lenny Zeltser's infosec site - https://zeltser.com/
+- Threat intel source list - https://github.com/hslatman/awesome-threat-intelligence
 
 THREAT INTEL API PROVIDERS
 ==
-
-abuse.ch - https://abuse.ch/
-
- - Malware Bazaar - https://bazaar.abuse.ch/
- 
- - Feodo Tracker - https://feodotracker.abuse.ch/
- 
- - I Got Phished - https://igotphished.abuse.ch/
- 
- - SSL Blacklist - https://sslbl.abuse.ch/
- 
- - (Malware) URL Haus - https://urlhaus.abuse.ch/
-
-Greynoise - https://greynoise.io/
-
-Have I Been Pwned - https://haveibeenpwned.com/
-
-Censys - https://censys.io/
-
-Phishtank - https://www.phishtank.com/
-
-Openphish - https://openphish.com/
-
-Lenny Zeltser's IP blocklist provider list - https://zeltser.com/malicious-ip-blocklists/
-
-Lenny Zeltser's malicious website lookup provider list - https://zeltser.com/lookup-malicious-websites/
+- abuse.ch - https://abuse.ch/
+    - Malware Bazaar - https://bazaar.abuse.ch/
+    - Feodo Tracker - https://feodotracker.abuse.ch/
+    - I Got Phished - https://igotphished.abuse.ch/
+    - SSL Blacklist - https://sslbl.abuse.ch/
+    - (Malware) URL Haus - https://urlhaus.abuse.ch/
+- Greynoise - https://greynoise.io/
+- Have I Been Pwned - https://haveibeenpwned.com/
+- Censys - https://censys.io/
+- Phishtank - https://www.phishtank.com/
+- Openphish - https://openphish.com/
+- Lenny Zeltser's IP blocklist provider list - https://zeltser.com/malicious-ip-blocklists/
+- Lenny Zeltser's malicious website lookup provider list - https://zeltser.com/lookup-malicious-websites/
 
 Threat Intelligence Platform Providers
 ==
-
-RiskIQ - https://www.riskiq.com/
-
-Silobreaker - https://www.silobreaker.com/
-
-Maltego - https://www.maltego.com/
+- RiskIQ - https://www.riskiq.com/
+- Silobreaker - https://www.silobreaker.com/
+- Maltego - https://www.maltego.com/
 
 Tools - Documentation
 ==
-
-Diagram as Code - https://github.com/mingrammer/diagrams
+- Diagram as Code - https://github.com/mingrammer/diagrams
 
 Container/Docker/Kubernetes Security
 ==
-
-Clint Gibler - TL;DR Sec - https://tldrsec.com/blog/container-security/
-
-SysDig - https://sysdig.com/
-
-Falco - k8s threat detection - https://sysdig.com/opensource/falco/
-
-Uptycs - cloud & container protection, posture assessment - https://www.uptycs.com/
-
-OSQuery for container detection:
-
-https://www.uptycs.com/blog/get-started-using-osquery-for-container-security
-
-https://developer.ibm.com/technologies/containers/articles/monitoring-containers-osquery/
-
-Peirates - k8s penetration tool - https://www.inguardians.com/peirates/
-
-Kubesploit - C2 for container environments - https://github.com/cyberark/kubesploit
-
-Popeye - K8s config & best practise scanner - https://github.com/derailed/popeye
-
-Wazuh - For Docker hosts and containers - https://wazuh.com/#containers-security
-
-KubiScan - CyberArk's K8s security permissions assessment tool - https://github.com/cyberark/KubiScan
-
-
+- Clint Gibler - TL;DR Sec - https://tldrsec.com/blog/container-security/
+- SysDig - https://sysdig.com/
+- Falco - k8s threat detection - https://sysdig.com/opensource/falco/
+- Uptycs - cloud & container protection, posture assessment - https://www.uptycs.com/
+- OSQuery for container detection:
+- https://www.uptycs.com/blog/get-started-using-osquery-for-container-security
+- https://developer.ibm.com/technologies/containers/articles/monitoring-containers-osquery/
+- Peirates - k8s penetration tool - https://www.inguardians.com/peirates/
+- Kubesploit - C2 for container environments - https://github.com/cyberark/kubesploit
+- Popeye - K8s config & best practise scanner - https://github.com/derailed/popeye
+- Wazuh - For Docker hosts and containers - https://wazuh.com/#containers-security
+- KubiScan - CyberArk's K8s security permissions assessment tool - https://github.com/cyberark/KubiScan
 
 Cloud Security Tools
-====================
-
-CloudSecDocs - Resource list for containers, AWS, Azure, GCP, Kafka & DevOps - https://cloudsecdocs.com/
-
-CrowdStrike CRT - Azure/O365 assessment - https://github.com/CrowdStrike/CRT
-
-Sygnia Cloud Scout - AD/Azure AD/AWS assessment tool - https://www.sygnia.co/cloudscout
-
-AWSPX - AWS effective access & attack paths assessment - https://github.com/FSecureLABS/awspx
-
-Azure - Stormspotter - attack graphing tool for Azure by Azure Red Teams - https://github.com/Azure/Stormspotter
-
-Wazuh - Azure/AWS/GCP sec data and configuration via API then agents for cloud assets - https://wazuh.com/#cloud-security-monitoring
-
-Microburst - Azure offensive powershell toolset - https://github.com/NetSPI/MicroBurst
-
-IAM Zero - suggests least-privilege policies for AWS (Azure/GCP/K8s later) - https://github.com/common-fate/iamzero
-
-Azure Security Benchmarks - https://github.com/MicrosoftDocs/SecurityBenchmarks
-
-CloudFormation Guard - IaC templates - https://github.com/aws-cloudformation/cloudformation-guard
-
-CloudMapper - AWS mapper/analyzer - https://github.com/duo-labs/cloudmapper
-
-SkyArk - CyberArk's AWS & Azure permissions analyzer - https://github.com/cyberark/SkyArk
-
-ROADTools - O365 & Azure AD recon tools - https://github.com/dirkjanm/ROADtools
+==
+- CloudSecDocs - Resource list for containers, AWS, Azure, GCP, Kafka & DevOps - https://cloudsecdocs.com/
+- CrowdStrike CRT - Azure/O365 assessment - https://github.com/CrowdStrike/CRT
+- Sygnia Cloud Scout - AD/Azure AD/AWS assessment tool - https://www.sygnia.co/cloudscout
+- AWSPX - AWS effective access & attack paths assessment - https://github.com/FSecureLABS/awspx
+- Azure - Stormspotter - attack graphing tool for Azure by Azure Red Teams - https://github.com/Azure/Stormspotter
+- Wazuh - Azure/AWS/GCP sec data and configuration via API then agents for cloud assets - https://wazuh.com/#cloud-security-monitoring
+- Microburst - Azure offensive powershell toolset - https://github.com/NetSPI/MicroBurst
+- IAM Zero - suggests least-privilege policies for AWS (Azure/GCP/K8s later) - https://github.com/common-fate/iamzero
+- Azure Security Benchmarks - https://github.com/MicrosoftDocs/SecurityBenchmarks
+- CloudFormation Guard - IaC templates - https://github.com/aws-cloudformation/cloudformation-guard
+- CloudMapper - AWS mapper/analyzer - https://github.com/duo-labs/cloudmapper
+- SkyArk - CyberArk's AWS & Azure permissions analyzer - https://github.com/cyberark/SkyArk
+- ROADTools - O365 & Azure AD recon tools - https://github.com/dirkjanm/ROADtools
 
 SaaS Security
 ==
-
-Raccoon - Salesforce data visibility assessment tool from NCC - https://github.com/nccgroup/raccoon
+- Raccoon - Salesforce data visibility assessment tool from NCC - https://github.com/nccgroup/raccoon
 
 Security Posture & Configuration Assessment
 ==
-
-NSA - Unfetter - Mitre-based security posture analysis tool - https://nsacyber.github.io/unfetter/index.html
-
-Mitre:
-
-- Offense TTPs 
-- - https://attack.mitre.org/
-- - https://github.com/mitre-attack/attack-navigator
-
-- Active Defense TTPs 
-- - https://shield.mitre.org/
-
-- Defensive countermeasures 
-- - https://d3fend.mitre.org/
-
-- Cyber Analytics Repository 
-- - https://car.mitre.org/
-
-- Evaluation - products and people 
-- - https://mitre-engenuity.org/
-
-- Attack2Neo - import Mitre into Neo4j 
-- - https://github.com/vmapps/attack2neo
-
-- ATT&CK mapping bast practices from US CISA 
-- - https://us-cert.cisa.gov/sites/default/files/publications/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf
-
-- ATT&CK Workbench - CTID's customise/extend ATT&CK tool 
-- - https://github.com/center-for-threat-informed-defense/attack-workbench-frontend 
-- - https://medium.com/mitre-engenuity/att-ck-workbench-a-tool-for-extending-att-ck-e1718cbfe0ef
-
-- ATT&CK DataMap - show potential coverage for Mitre 
-- - https://github.com/olafhartong/ATTACKdatamap
-
-Microsoft Attack Surface Analyzer - scan Windows for unsafe changes due to software installs - https://github.com/Microsoft/AttackSurfaceAnalyzer
-
-Rabobank's DETTECT - Map log sources, detections and attacker behviours to show ATT&CK coverage - https://github.com/rabobank-cdc/DeTTECT
-
-Threat Mapping Catalogue - https://github.com/intelforge/tmc
+- NSA - Unfetter - Mitre-based security posture analysis tool - https://nsacyber.github.io/unfetter/index.html
+- Mitre:
+    - ATT&CK - Offense TTPs 
+        - https://attack.mitre.org/
+        - https://github.com/mitre-attack/attack-navigator
+    - Engage - Active Defense TTPs 
+        - [[https://engage.mitre.org/](https://engage.mitre.org/)
+    - D3fend - Defensive countermeasures 
+        - https://d3fend.mitre.org/
+    - CAR - Cyber Analytics Repository 
+        - https://car.mitre.org/
+    - EMB3D - Threats & mitigations for embedded devices
+        - https://emb3d.mitre.org/
+    - Evaluation - products and people 
+        - https://mitre-engenuity.org/
+    - Attack2Neo - import Mitre into Neo4j 
+        - https://github.com/vmapps/attack2neo
+    - ATT&CK mapping bast practices from US CISA 
+        - https://us-cert.cisa.gov/sites/default/files/publications/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf
+    - ATT&CK Workbench - CTID's customise/extend ATT&CK tool 
+        - https://github.com/center-for-threat-informed-defense/attack-workbench-frontend 
+        - https://medium.com/mitre-engenuity/att-ck-workbench-a-tool-for-extending-att-ck-e1718cbfe0ef
+    - ATT&CK DataMap - show potential coverage for Mitre 
+        - https://github.com/olafhartong/ATTACKdatamap
+- Microsoft Attack Surface Analyzer - scan Windows for unsafe changes due to software installs - https://github.com/Microsoft/AttackSurfaceAnalyzer
+- Rabobank's DETTECT - Map log sources, detections and attacker behviours to show ATT&CK coverage - https://github.com/rabobank-cdc/DeTTECT
+- Threat Mapping Catalogue - https://github.com/intelforge/tmc
 
 Incident Response
 ==
-
-Incident Playbook - Playbooks mapped to MITRE - https://github.com/austinsonger/Incident-Playbook
-
-The Hive Project - IR application, docker - https://thehive-project.org/
+- Incident Playbook - Playbooks mapped to MITRE - https://github.com/austinsonger/Incident-Playbook
+- The Hive Project - IR application, docker - https://thehive-project.org/
 
 Code Analysis
 ==
-
-KICS by Checkmarx - https://docs.kics.io/latest - https://github.com/Checkmarx/kics
-
-Trivy by Aqua - https://aquasecurity.github.io/trivy - https://github.com/aquasecurity/trivy
-
-Checkov - Bridgecrew - Static code analysis for IaC - https://github.com/bridgecrewio/checkov - https://www.checkov.io/
-
-TFSec - Terraform static analysis - https://github.com/tfsec/tfsec
-
-TFLint - Terraform error & best practise scanner - https://github.com/terraform-linters/tflint
+- KICS by Checkmarx - https://docs.kics.io/latest - https://github.com/Checkmarx/kics
+- Trivy by Aqua - https://aquasecurity.github.io/trivy - https://github.com/aquasecurity/trivy
+- Checkov - Bridgecrew - Static code analysis for IaC - https://github.com/bridgecrewio/checkov - https://www.checkov.io/
+- TFSec - Terraform static analysis - https://github.com/tfsec/tfsec
+- TFLint - Terraform error & best practise scanner - https://github.com/terraform-linters/tflint
 
 SIEM
 ==
-
-Devo - https://www.devo.com/
-
-Elastic - https://www.elastic.co/
-
-Humio - https://www.humio.com/secops
-
-Sumo Logic - https://www.sumologic.com/solutions/cloud-siem-enterprise/
-
-Sigma - platform agnostic SIEM rules - https://github.com/SigmaHQ/sigma 
-- https://www.nextron-systems.com/2018/02/10/write-sigma-rules/ 
-- https://syedhasan010.medium.com/defenders-toolkit-102-sigma-rules-4a623acb2036
-
-Security Onion - Ready made FOSS SIEM - https://securityonionsolutions.com/ - https://github.com/Security-Onion-Solutions/securityonion
-
-Vadim Hunter's detection rules - https://github.com/vadim-hunter/Detection-Ideas-Rules
+- Devo - https://www.devo.com/
+- Elastic - https://www.elastic.co/
+- Humio - https://www.humio.com/secops
+- Sumo Logic - https://www.sumologic.com/solutions/cloud-siem-enterprise/
+- Sigma - platform agnostic SIEM rules - https://github.com/SigmaHQ/sigma 
+    - https://www.nextron-systems.com/2018/02/10/write-sigma-rules/ 
+    - https://syedhasan010.medium.com/defenders-toolkit-102-sigma-rules-4a623acb2036
+- Security Onion - Ready made FOSS SIEM - https://securityonionsolutions.com/ - https://github.com/Security-Onion-Solutions/securityonion
+- Vadim Hunter's detection rules - https://github.com/vadim-hunter/Detection-Ideas-Rules
 
 SOAR & Automation
 ==
-
-Shuffle - FOSS SOAR - https://github.com/frikky/Shuffle
-
-Tines - limited community version plus paid SOAR - https://www.tines.com/
-
-Siemplify - community & paid versions - https://www.siemplify.co/
-
-Swimlane - https://swimlane.com/
-
-Jimi - FOSS no-code SOAR - https://github.com/z1pti3/jimi
-
-PowerShell Universal & PowerShell Pro Tools - From Ironman Software & Adam Driscoll - https://ironmansoftware.com/
-
-Automation mindset & process article - https://queue.acm.org/detail.cfm?id=3197520
-
-Patrowl - FOSS SOAR - https://github.com/Patrowl/PatrowlEngines
-- https://github.com/vletoux/PingCastlePatrOwl - Pingcastle for Patrowl
+- Shuffle - FOSS SOAR - https://github.com/frikky/Shuffle
+- Tines - limited community version plus paid SOAR - https://www.tines.com/
+- Siemplify - community & paid versions - https://www.siemplify.co/
+- Swimlane - https://swimlane.com/
+- Jimi - FOSS no-code SOAR - https://github.com/z1pti3/jimi
+- PowerShell Universal & PowerShell Pro Tools - From Ironman Software & Adam Driscoll - https://ironmansoftware.com/
+- Automation mindset & process article - https://queue.acm.org/detail.cfm?id=3197520
+- Patrowl - FOSS SOAR - https://github.com/Patrowl/PatrowlEngines
+    - https://github.com/vletoux/PingCastlePatrOwl - Pingcastle for Patrowl
 
 Threat Emulation
 ==
-
-Atomic Red Team - https://atomicredteam.io/ - https://github.com/redcanaryco/atomic-red-team
-
-Atomic Threat Coverage - TTPs, SIGMAs & KBs all in one place - https://github.com/atc-project/atomic-threat-coverage
-
-Prelude - Atomic Red Team in your environment - https://www.prelude.org/platform/community
-
-Thremulation - Atomic Red Team with ELK & sandbox - https://www.thremulation.io/ - https://github.com/thremulation-station/thremulation-station
-
-Mitre Caldera - https://www.mitre.org/research/technology-transfer/open-source-software/caldera%E2%84%A2 - https://github.com/mitre/caldera
-
-https://github.com/clong/DetectionLab
-
-https://github.com/OTRF/SimuLand
-
-https://github.com/davidprowe/BadBlood
-
-https://github.com/christophetd/Adaz
-
-https://github.com/OTRF/Blacksmith
+- Atomic Red Team - https://atomicredteam.io/ - https://github.com/redcanaryco/atomic-red-team
+- Atomic Threat Coverage - TTPs, SIGMAs & KBs all in one place - https://github.com/atc-project/atomic-threat-coverage
+- Prelude - Atomic Red Team in your environment - https://www.prelude.org/platform/community
+- Thremulation - Atomic Red Team with ELK & sandbox - https://www.thremulation.io/ - https://github.com/thremulation-station/thremulation-station
+- Mitre Caldera - https://www.mitre.org/research/technology-transfer/open-source-software/caldera%E2%84%A2 - https://github.com/mitre/caldera
+- https://github.com/clong/DetectionLab
+- https://github.com/OTRF/SimuLand
+- https://github.com/davidprowe/BadBlood
+- AD in Azure playground - https://github.com/christophetd/Adaz
+- https://github.com/OTRF/Blacksmith
 
 Vulnerability Management
 ==
-
-Nuclei - FOSS vuln scanner - https://github.com/projectdiscovery/nuclei
-
-Wazuh (again) - vuln detection and reporting where agent installed - https://wazuh.com/#vulnerability-detection
-
-Vulcan - vulnerability remediation automation - https://vulcan.io/integrations/
-
-0Patch - micro patch solution - https://0patch.com/
+- Nuclei - FOSS vuln scanner - https://github.com/projectdiscovery/nuclei
+- Wazuh (again) - vuln detection and reporting where agent installed - https://wazuh.com/#vulnerability-detection
+- Vulcan - vulnerability remediation automation - https://vulcan.io/integrations/
+- 0Patch - micro patch solution - https://0patch.com/
 
 Endpoint Security
 ==
-
-Sysmon config pusher - https://github.com/LaresLLC/SysmonConfigPusher
-
-Wazuh - HIDS/HIPS/Vulns/FIM/IR/EDR - https://wazuh.com/ - https://documentation.wazuh.com/current/index.html
-
-Osquery - SQL queries on endpoints, very powerful - https://github.com/osquery/osquery
-
-YARA rules & info collection - https://github.com/InQuest/awesome-yara
-
-Velociraptor - monitor, alert, hunt on endpoints - https://www.velocidex.com/
-
-NCSC - security config packs Win,OSX,iOS,Ubuntu,Android - https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs
-
-Nextron Systems - FOSS/Commercial - Compromise assessment, forensics, IOC scanners - https://www.nextron-systems.com/products/
-
-DeepBlueCLI - command line threat hunting on Windows - https://github.com/sans-blue-team/DeepBlueCLI
-
-OpenEDR - Comodo's FOSS EDR - https://openedr.com/
-
-OSSEM - Open Source Security Events Metadata - https://github.com/OTRF/OSSEM
-
-SilkETW from Fireeye - Event Tracing for Windows telemetry made easier:
-- https://www.fireeye.com/blog/threat-research/2019/03/silketw-because-free-telemetry-is-free.html
-- https://github.com/fireeye/SilkETW
-- https://medium.com/threat-hunters-forge/threat-hunting-with-etw-events-and-helk-part-1-installing-silketw-6eb74815e4a0
+- Sysmon config pusher - https://github.com/LaresLLC/SysmonConfigPusher
+- Wazuh - HIDS/HIPS/Vulns/FIM/IR/EDR - https://wazuh.com/ - https://documentation.wazuh.com/current/index.html
+- Osquery - SQL queries on endpoints, very powerful - https://github.com/osquery/osquery
+- YARA rules & info collection - https://github.com/InQuest/awesome-yara
+- Velociraptor - monitor, alert, hunt on endpoints - https://www.velocidex.com/
+- NCSC - security config packs Win,OSX,iOS,Ubuntu,Android - https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs
+- Nextron Systems - FOSS/Commercial - Compromise assessment, forensics, IOC scanners - https://www.nextron-systems.com/products/
+- DeepBlueCLI - command line threat hunting on Windows - https://github.com/sans-blue-team/DeepBlueCLI
+- OpenEDR - Comodo's FOSS EDR - https://openedr.com/
+- OSSEM - Open Source Security Events Metadata - https://github.com/OTRF/OSSEM
+- SilkETW from Fireeye - Event Tracing for Windows telemetry made easier:
+    - https://www.fireeye.com/blog/threat-research/2019/03/silketw-because-free-telemetry-is-free.html
+    - https://github.com/fireeye/SilkETW
+    - https://medium.com/threat-hunters-forge/threat-hunting-with-etw-events-and-helk-part-1-installing-silketw-6eb74815e4a0
 
 Network Security
 ==
