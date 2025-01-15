@@ -1,1 +1,3 @@
 - Maya Kaczorowski - https://mayakaczorowski.com/blogs
+- Wiz - https://www.wiz.io/blog
+- tl;dr sec - https://tldrsec.com/t/Blog
