@@ -1,6 +1,14 @@
 # Cyber-resource-list
 Cyber Security resource list
 
+## Learning - AppSec
+
+Semgrep Academy - https://academy.semgrep.dev/
+
+IriusRisk - https://learn.iriusrisk.com/library/
+
+Wiz Academy - https://www.wiz.io/academy
+
 ## What's popular in open source security software:
 
 - Open Source Security Index - https://opensourcesecurityindex.io/
@@ -365,19 +373,12 @@ Thinkst Canary - decoys/honeytraps - https://canary.tools/
 Malware Analysis
 ==
 
-Anyrun - online analysis/sandbox - https://any.run/
-
-Hybrid Analysis - online malware anlysis - https://www.hybrid-analysis.com/
-
-Cuckoo Sandbox - FOSS sandbox - https://cuckoosandbox.org/
-
-Joe Sandbox - online sandbox/analysis - https://www.joesandbox.com/
-
-Lenny Zeltser's list of online malware analysis tools - https://zeltser.com/automated-malware-analysis/
-
-REMnux - malware analysis toolkit OS - https://remnux.org/
-
-Nextron Valhalla - YARA rule feed - https://www.nextron-systems.com/valhalla/
+- Anyrun - online analysis/sandbox - https://any.run/
+- Hybrid Analysis - online malware anlysis - https://www.hybrid-analysis.com/
+- Joe Sandbox - online sandbox/analysis - https://www.joesandbox.com/
+- Lenny Zeltser's list of online malware analysis tools - https://zeltser.com/automated-malware-analysis/
+- REMnux - malware analysis toolkit OS - https://remnux.org/
+- Nextron Valhalla - YARA rule feed - https://www.nextron-systems.com/valhalla/
 
 Phishing
 ==
