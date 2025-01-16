@@ -42,7 +42,7 @@ Cyber Security resource list
 - SANS instructor Lenny Zeltser's infosec site - https://zeltser.com/
 - Threat intel source list - https://github.com/hslatman/awesome-threat-intelligence
 
-## THREAT INTEL API PROVIDERS
+## Threat Intel API Providers
 - abuse.ch - https://abuse.ch/
     - Malware Bazaar - https://bazaar.abuse.ch/
     - Feodo Tracker - https://feodotracker.abuse.ch/
