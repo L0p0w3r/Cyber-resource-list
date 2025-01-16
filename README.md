@@ -97,6 +97,9 @@ Cyber Security resource list
 - CloudMapper - AWS mapper/analyzer - https://github.com/duo-labs/cloudmapper
 - SkyArk - CyberArk's AWS & Azure permissions analyzer - https://github.com/cyberark/SkyArk
 - ROADTools - O365 & Azure AD recon tools - https://github.com/dirkjanm/ROADtools
+- Cloudsplaining - https://opensource.salesforce.com/cloudsplaining/#/
+    - https://github.com/salesforce/cloudsplaining
+    - https://cloudsplaining.readthedocs.io/en/latest/
 
 ## SaaS Security
 - Raccoon - Salesforce data visibility assessment tool from NCC - https://github.com/nccgroup/raccoon
