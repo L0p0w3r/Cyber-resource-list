@@ -24,7 +24,8 @@ Videos and channels from conferences etc
     - CloudSecNext Summit 2024 - https://www.youtube.com/playlist?list=PLsfnCRA9QVnQ4UWSOWiLKJci3_isxI3U6
 - Hexacon - https://www.youtube.com/@hexacon4091
     - Hexacon 2024 - https://www.youtube.com/playlist?list=PLiEHUFG7koLvk72LC2xGCn65M535-vIEC
-
+- The Elephant In AppSec conference - https://app.getcontrast.io/the-elephant-in-appsec
+- DefCon 32 (2024) - https://www.youtube.com/playlist?list=PL9fPq3eQfaaB2scbXRczwvjVH0ckX4bwt
 
 Platform Engineering & DevOps
 ==
