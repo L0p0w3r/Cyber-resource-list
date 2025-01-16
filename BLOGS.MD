@@ -1,3 +1,4 @@
 - Maya Kaczorowski - https://mayakaczorowski.com/blogs
 - Wiz - https://www.wiz.io/blog
 - tl;dr sec - https://tldrsec.com/t/Blog
+- Chris Farris - Cloud Security Guy - https://www.chrisfarris.com/
