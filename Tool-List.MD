@@ -1,0 +1,9 @@
+- YaraHunter
+    - https://github.com/deepfence/YaraHunter
+    - https://docs.deepfence.io/docs/yarahunter/
+- Tracee
+    - https://github.com/aquasecurity/tracee
+    - https://aquasecurity.github.io/tracee/latest/docs/overview/
+    - https://www.aquasec.com/blog/cicd-pipeline-security-tool-tracee/
+- Cue - Data validation language - https://cuelang.org/
+    - https://cuelang.org/docs/introduction/
