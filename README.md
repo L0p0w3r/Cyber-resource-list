@@ -38,8 +38,7 @@ Cyber Security resource list
 - SANS instructor Lenny Zeltser's infosec site - https://zeltser.com/
 - Threat intel source list - https://github.com/hslatman/awesome-threat-intelligence
 
-THREAT INTEL API PROVIDERS
-==
+## THREAT INTEL API PROVIDERS
 - abuse.ch - https://abuse.ch/
     - Malware Bazaar - https://bazaar.abuse.ch/
     - Feodo Tracker - https://feodotracker.abuse.ch/
@@ -54,18 +53,15 @@ THREAT INTEL API PROVIDERS
 - Lenny Zeltser's IP blocklist provider list - https://zeltser.com/malicious-ip-blocklists/
 - Lenny Zeltser's malicious website lookup provider list - https://zeltser.com/lookup-malicious-websites/
 
-Threat Intelligence Platform Providers
-==
+## Threat Intelligence Platform Providers
 - RiskIQ - https://www.riskiq.com/
 - Silobreaker - https://www.silobreaker.com/
 - Maltego - https://www.maltego.com/
 
-Tools - Documentation
-==
+## Tools - Documentation
 - Diagram as Code - https://github.com/mingrammer/diagrams
 
-Container/Docker/Kubernetes Security
-==
+## Container/Docker/Kubernetes Security
 - Clint Gibler - TL;DR Sec - https://tldrsec.com/blog/container-security/
 - SysDig - https://sysdig.com/
 - Falco - k8s threat detection - https://sysdig.com/opensource/falco/
@@ -79,8 +75,7 @@ Container/Docker/Kubernetes Security
 - Wazuh - For Docker hosts and containers - https://wazuh.com/#containers-security
 - KubiScan - CyberArk's K8s security permissions assessment tool - https://github.com/cyberark/KubiScan
 
-Cloud Security Tools
-==
+## Cloud Security Tools
 - CloudSecDocs - Resource list for containers, AWS, Azure, GCP, Kafka & DevOps - https://cloudsecdocs.com/
 - CrowdStrike CRT - Azure/O365 assessment - https://github.com/CrowdStrike/CRT
 - Sygnia Cloud Scout - AD/Azure AD/AWS assessment tool - https://www.sygnia.co/cloudscout
@@ -95,12 +90,10 @@ Cloud Security Tools
 - SkyArk - CyberArk's AWS & Azure permissions analyzer - https://github.com/cyberark/SkyArk
 - ROADTools - O365 & Azure AD recon tools - https://github.com/dirkjanm/ROADtools
 
-SaaS Security
-==
+## SaaS Security
 - Raccoon - Salesforce data visibility assessment tool from NCC - https://github.com/nccgroup/raccoon
 
-Security Posture & Configuration Assessment
-==
+## Security Posture & Configuration Assessment
 - NSA - Unfetter - Mitre-based security posture analysis tool - https://nsacyber.github.io/unfetter/index.html
 - Mitre:
     - ATT&CK - Offense TTPs 
@@ -129,13 +122,11 @@ Security Posture & Configuration Assessment
 - Rabobank's DETTECT - Map log sources, detections and attacker behviours to show ATT&CK coverage - https://github.com/rabobank-cdc/DeTTECT
 - Threat Mapping Catalogue - https://github.com/intelforge/tmc
 
-Incident Response
-==
+## Incident Response
 - Incident Playbook - Playbooks mapped to MITRE - https://github.com/austinsonger/Incident-Playbook
 - The Hive Project - IR application, docker - https://thehive-project.org/
 
-CICD Security
-==
+## CICD Security
 - Legitify by Legit Security - Security posture of Github/Gitlab instances - https://www.legitsecurity.com/legitify
 
 Code Analysis
@@ -146,8 +137,7 @@ Code Analysis
 - TFSec - Terraform static analysis - https://github.com/tfsec/tfsec
 - TFLint - Terraform error & best practise scanner - https://github.com/terraform-linters/tflint
 
-SIEM
-==
+## SIEM
 - Devo - https://www.devo.com/
 - Elastic - https://www.elastic.co/
 - Humio - https://www.humio.com/secops
@@ -158,8 +148,7 @@ SIEM
 - Security Onion - Ready made FOSS SIEM - https://securityonionsolutions.com/ - https://github.com/Security-Onion-Solutions/securityonion
 - Vadim Hunter's detection rules - https://github.com/vadim-hunter/Detection-Ideas-Rules
 
-SOAR & Automation
-==
+## SOAR & Automation
 - Shuffle - FOSS SOAR - https://github.com/frikky/Shuffle
 - Tines - limited community version plus paid SOAR - https://www.tines.com/
 - Siemplify - community & paid versions - https://www.siemplify.co/
@@ -170,8 +159,7 @@ SOAR & Automation
 - Patrowl - FOSS SOAR - https://github.com/Patrowl/PatrowlEngines
     - https://github.com/vletoux/PingCastlePatrOwl - Pingcastle for Patrowl
 
-Threat Emulation
-==
+## Threat Emulation
 - Atomic Red Team - https://atomicredteam.io/ - https://github.com/redcanaryco/atomic-red-team
 - Atomic Threat Coverage - TTPs, SIGMAs & KBs all in one place - https://github.com/atc-project/atomic-threat-coverage
 - Prelude - Atomic Red Team in your environment - https://www.prelude.org/platform/community
@@ -183,15 +171,13 @@ Threat Emulation
 - AD in Azure playground - https://github.com/christophetd/Adaz
 - https://github.com/OTRF/Blacksmith
 
-Vulnerability Management
-==
+## Vulnerability Management
 - Nuclei - FOSS vuln scanner - https://github.com/projectdiscovery/nuclei
 - Wazuh (again) - vuln detection and reporting where agent installed - https://wazuh.com/#vulnerability-detection
 - Vulcan - vulnerability remediation automation - https://vulcan.io/integrations/
 - 0Patch - micro patch solution - https://0patch.com/
 
-Endpoint Security
-==
+## Endpoint Security
 - Sysmon config pusher - https://github.com/LaresLLC/SysmonConfigPusher
 - Wazuh - HIDS/HIPS/Vulns/FIM/IR/EDR - https://wazuh.com/ - https://documentation.wazuh.com/current/index.html
 - Osquery - SQL queries on endpoints, very powerful - https://github.com/osquery/osquery
@@ -207,41 +193,26 @@ Endpoint Security
     - https://github.com/fireeye/SilkETW
     - https://medium.com/threat-hunters-forge/threat-hunting-with-etw-events-and-helk-part-1-installing-silketw-6eb74815e4a0
 
-Network Security
-==
+## Network Security
+- Arkime - Packet capture & analysis - https://arkime.com/ - https://github.com/arkime/arkime
+- Suricata - NIDS/NIPS/NSM - https://suricata.io/
+- Zeek - NIDS/NSM - https://zeek.org/
+- Snort - NIPS - https://www.snort.org/
+- Owlh & Wazuh - Uses Snort/Zeek/Suricata data integrated via OwlH into Wazuh adding NIDS to HIDS:
+    - https://www.owlh.net/
+    - https://documentation.owlh.net/en/0.17.0/index.html
+    - https://documentation.owlh.net/en/0.17.0/main/OwlHWazuh.html
+    - https://wazuh.com/owlh-network-ids-integration/
+- CISA's Malcolm - FOSS network traffic analysis suite - https://github.com/cisagov/malcolm
 
-Arkime - Packet capture & analysis - https://arkime.com/ - https://github.com/arkime/arkime
+## Perimeter Defence
+- PerimeterX - bot defence, website defence - https://www.perimeterx.com/
+- TypoDetect - discover domain name mutations similar to corporate domain names used for phishing/smishing etc - https://github.com/telefonica/typodetect
 
-Suricata - NIDS/NIPS/NSM - https://suricata.io/
+## Deception
+- Thinkst Canary - decoys/honeytraps - https://canary.tools/
 
-Zeek - NIDS/NSM - https://zeek.org/
-
-Snort - NIPS - https://www.snort.org/
-
-Owlh & Wazuh - Uses Snort/Zeek/Suricata data integrated via OwlH into Wazuh adding NIDS to HIDS:
-
-- https://www.owlh.net/
-- https://documentation.owlh.net/en/0.17.0/index.html
-- https://documentation.owlh.net/en/0.17.0/main/OwlHWazuh.html
-- https://wazuh.com/owlh-network-ids-integration/
-
-CISA's Malcolm - FOSS network traffic analysis suite - https://github.com/cisagov/malcolm
-
-Perimeter Defence
-==
-
-PerimeterX - bot defence, website defence - https://www.perimeterx.com/
-
-TypoDetect - discover domain name mutations similar to corporate domain names used for phishing/smishing etc - https://github.com/telefonica/typodetect
-
-Deception
-==
-
-Thinkst Canary - decoys/honeytraps - https://canary.tools/
-
-Malware Analysis
-==
-
+## Malware Analysis
 - Anyrun - online analysis/sandbox - https://any.run/
 - Hybrid Analysis - online malware anlysis - https://www.hybrid-analysis.com/
 - Joe Sandbox - online sandbox/analysis - https://www.joesandbox.com/
@@ -249,13 +220,10 @@ Malware Analysis
 - REMnux - malware analysis toolkit OS - https://remnux.org/
 - Nextron Valhalla - YARA rule feed - https://www.nextron-systems.com/valhalla/
 
-Phishing
-==
+## Phishing
+- PhishCatch - browser ext and API server detects corp pwd use on external sites from Palantir - https://github.com/palantir/phishcatch
 
-PhishCatch - browser ext and API server detects corp pwd use on external sites from Palantir - https://github.com/palantir/phishcatch
-
-GRC
-==
+## GRC
 - GRC knowledge list - https://github.com/Arudjreis/awesome-security-GRC
 - Protecht - Enterprise Risk Management software - https://www.protechtgroup.com/en-gb/enterprise-risk-management-software
 - Deciduous - security decision mapping from Ryan Petrich & Kelly Shortridge:
@@ -265,14 +233,12 @@ GRC
     - https://graphviz.org/
     - https://github.com/rpetrich
 
-Red Team Tools
-==
+## Red Team Tools
 - Phant0m - Win Event Log Killer - https://github.com/hlldz/Phant0m
 - Mythic - red team framework - https://github.com/its-a-feature/Mythic
 - GoFetch - generate attack plans from Bloodhound - https://github.com/GoFetchAD/GoFetch
 
-Go/Golang Tools
-==
+## Go/Golang Tools
 - The Hive Go library - https://github.com/TheHive-Project/TheHive4go
 - Jira Go library - https://github.com/andygrunwald/go-jira
 - Jira Go library (another) - https://github.com/go-jira/jira
@@ -286,79 +252,47 @@ Go/Golang Tools
 - Harp - Secret management toolchain from Elastic - https://github.com/elastic/harp
 - Cisco Firepower Go client - https://github.com/buttahtoast/fmcClient
 
-Python Tools
-==
+## Python Tools
 - Loguru - Python logging - https://github.com/Delgan/loguru
 - Tenable Python library - https://github.com/tenable/pyTenable
 - Tenable Python CLI tool - https://github.com/packetchaos/navi
 
-Training
-==
+## Training
 - Instruqt - cloud tech & cloudsec training modules - https://instruqt.com/
 
-Random Useful Sites
-==
+## Random Useful Sites
 - https://parsiya.net/ - Go/Golang, blog, hacking, reverse engineering, automation
 - Purp1eW0lf's Blue Team Notes - https://github.com/Purp1eW0lf/Blue-Team-Notes
 - US DHS CISA's tools github repos - https://github.com/search?q=user%3Acisagov+&s=stars&type=Repositories
 
-AD Security
-===========
-https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
-
-SpecterOps - Bloodhound FOSS - https://github.com/BloodHoundAD/BloodHound
-
-Dockerised Bloodhound - https://github.com/belane/docker-bloodhound
-
-Bloodhound/Cypher Queries:
-
-- https://neo4j.com/docs/cypher-refcard/current/
- 
-- https://blog.cptjesus.com/posts/introtocypher
-
-- https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/
-
-- https://github.com/hausec/Bloodhound-Custom-Queries
-
-- https://github.com/SadProcessor
-
-- https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
-
-- https://github.com/JoshSchwarz/Bloodhound-Cypher
-
-- https://gist.github.com/jeffmcjunkin/7b4a67bb7dd0cfbfbd83768f3aa6eb12
-
-- https://bloodhoundnotebook.com/notebooks/cypher/queries_notebook.html
-- https://github.com/Scoubi/BloodhoundAD-Queries
-
-https://github.com/improsec/ImproHound - https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations
-
-BloodCheck - Manage multiple Neo4j DBs & cypher query BH datasets - https://github.com/Mr-B0b/BloodCheck
-
-Plumhound - Bloodhound for blue & purple teams - https://github.com/PlumHound/PlumHound
-
-Use Bloodhound with network data to predict ransomware spread - https://github.com/zeronetworks/BloodHound-Tools
-
-Sean Metcalf - Trimarc - AD security don - https://adsecurity.org/
-
-SpecterOps - AD, Windows, OSX offensive & defensive tools - https://specterops.io/resources/affiliated-toolsets
-
-Semperis - AD defence & recovery commercial products and blog includes Darren Mar-Elia GPOGuy - https://www.semperis.com/
-
-Purple Knight - free AD security assessment tool from Semperis - https://www.purple-knight.com/
-
-Pingcastle - free/commercial AD security assessment tool from Vincent Letoux - https://www.pingcastle.com/
-
-Stealthbits - AD & data management commercial tools - https://stealthbits.com/active-directory-security-solutions/
-
-Tenable AD - formerly Alsid - https://www.tenable.com/products/tenable-ad
-
-YossiSassi's AD group change monitoring powershell - https://github.com/YossiSassi/Get-ADGroupChanges
-
-ZBang - CyberArk's AD risk assessment tool - https://github.com/cyberark/zBang
-
-ACLight - CyberArk's AD shadow admins discovery tool - https://github.com/cyberark/ACLight
-
-Vincent Yiu's red team tools & tips - https://www.vincentyiu.com/
-
-Dirk-Jan Mollema's blog - AD & AAD stuff - https://dirkjanm.io
+## AD Security
+- https://posts.specterops.io/the-attack-path-management-manifesto-3a3b117f5e5
+- SpecterOps - Bloodhound FOSS - https://github.com/BloodHoundAD/BloodHound
+- Dockerised Bloodhound - https://github.com/belane/docker-bloodhound
+- Bloodhound/Cypher Queries:
+    - https://neo4j.com/docs/cypher-refcard/current/
+    - https://blog.cptjesus.com/posts/introtocypher
+    - https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/
+    - https://github.com/hausec/Bloodhound-Custom-Queries
+    - https://github.com/SadProcessor
+    - https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf
+    - https://github.com/JoshSchwarz/Bloodhound-Cypher
+    - https://gist.github.com/jeffmcjunkin/7b4a67bb7dd0cfbfbd83768f3aa6eb12
+    - https://bloodhoundnotebook.com/notebooks/cypher/queries_notebook.html
+    - https://github.com/Scoubi/BloodhoundAD-Queries
+- https://github.com/improsec/ImproHound - https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations
+- BloodCheck - Manage multiple Neo4j DBs & cypher query BH datasets - https://github.com/Mr-B0b/BloodCheck
+- Plumhound - Bloodhound for blue & purple teams - https://github.com/PlumHound/PlumHound
+- Use Bloodhound with network data to predict ransomware spread - https://github.com/zeronetworks/BloodHound-Tools
+- Sean Metcalf - Trimarc - AD security don - https://adsecurity.org/
+- SpecterOps - AD, Windows, OSX offensive & defensive tools - https://specterops.io/resources/affiliated-toolsets
+- Semperis - AD defence & recovery commercial products and blog includes Darren Mar-Elia GPOGuy - https://www.semperis.com/
+- Purple Knight - free AD security assessment tool from Semperis - https://www.purple-knight.com/
+- Pingcastle - free/commercial AD security assessment tool from Vincent Letoux - https://www.pingcastle.com/
+- Stealthbits - AD & data management commercial tools - https://stealthbits.com/active-directory-security-solutions/
+- Tenable AD - formerly Alsid - https://www.tenable.com/products/tenable-ad
+- YossiSassi's AD group change monitoring powershell - https://github.com/YossiSassi/Get-ADGroupChanges
+- ZBang - CyberArk's AD risk assessment tool - https://github.com/cyberark/zBang
+- ACLight - CyberArk's AD shadow admins discovery tool - https://github.com/cyberark/ACLight
+- Vincent Yiu's red team tools & tips - https://www.vincentyiu.com/
+- Dirk-Jan Mollema's blog - AD & AAD stuff - https://dirkjanm.io
