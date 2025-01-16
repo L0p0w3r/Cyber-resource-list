@@ -13,7 +13,10 @@ https://corgea.com/Learn/understanding-ai-and-large-language-models-(llms)-a-gui
 https://github.com/nccgroup/PMapper  
 https://secureslate.medium.com/7-best-user-access-review-tools-to-save-your-business-in-2024-168a74af2309  
 https://permify.co/post/open-source-identity-access-management-iam-solutions-for-enterprises/  
-https://medium.com/life-at-chime/monocle-how-chime-creates-a-proactive-security-engineering-culture-part-1-dedd3846127f#:~:text=The%20Security%20Score,fix%20issues%20on%20their%20own.  
+https://medium.com/life-at-chime/monocle-how-chime-creates-a-proactive-security-engineering-culture-part-1-dedd3846127f  
+https://medium.com/life-at-chime/mitigating-risky-pull-requests-with-monocle-risk-advisor-part-2-7013e1485bf2  
+https://docs.google.com/presentation/d/1Jy-SvTuXItTH7Vpqq8O0anp4-FQKiZUShOcBeWxYowk/edit#slide=id.g21309ae7977_0_260  
+https://www.youtube.com/watch?v=TmRyZ7FB-HA  
 https://www.wiz.io/academy/open-policy-agent-opa  
 https://www.wiz.io/blog/getting-started-with-open-policy-agent-opa-to-improve-your-cloud-security  
 https://netflixtechblog.com/the-show-must-go-on-securing-netflix-studios-at-scale-19b801c86479  
@@ -38,3 +41,4 @@ https://arxiv.org/abs/2412.02776
 https://www.invicti.com/blog/security-labs/brainstorm-tool-release-optimizing-web-fuzzing-with-local-llms/  
 https://securitylabs.datadoghq.com/articles/from_detection_to_enforcement_migrating_from_imdsv1_to_imdsv2/  
 https://www.youtube.com/watch?v=wru_AyiZdlY  
+https://tide.org/  
