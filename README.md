@@ -13,6 +13,10 @@ Cyber Security resource list
 ## What's popular in open source security software:
 - Open Source Security Index - https://opensourcesecurityindex.io/
 
+## Policy As Code
+- OPA - https://www.openpolicyagent.org/
+    - Docs - https://www.openpolicyagent.org/docs/latest/
+
 ## Threat Intel Sources
 - Team Cymru - https://team-cymru.com/
 - Anomali - https://www.anomali.com/
