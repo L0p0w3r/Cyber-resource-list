@@ -134,6 +134,10 @@ Incident Response
 - Incident Playbook - Playbooks mapped to MITRE - https://github.com/austinsonger/Incident-Playbook
 - The Hive Project - IR application, docker - https://thehive-project.org/
 
+CICD Security
+==
+- Legitify by Legit Security - Security posture of Github/Gitlab instances - https://www.legitsecurity.com/legitify
+
 Code Analysis
 ==
 - KICS by Checkmarx - https://docs.kics.io/latest - https://github.com/Checkmarx/kics
