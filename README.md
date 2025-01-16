@@ -5,6 +5,10 @@ Cyber Security resource list
 - Semgrep Academy - https://academy.semgrep.dev/
 - IriusRisk - https://learn.iriusrisk.com/library/
 - Wiz Academy - https://www.wiz.io/academy
+- Linux Foundation (some $0) - https://training.linuxfoundation.org/full-catalog/?_sft_product_type=training&_sft_topic_area=cybersecurity
+- EdX - https://www.edx.org/learn/software-development
+    - Secure supply chain with Sigstore - https://www.edx.org/learn/software-development/the-linux-foundation-securing-your-software-supply-chain-with-sigstore
+- OpenSSF - https://openssf.org/training/
 
 ## What's popular in open source security software:
 - Open Source Security Index - https://opensourcesecurityindex.io/
