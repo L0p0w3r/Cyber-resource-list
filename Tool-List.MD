@@ -7,3 +7,40 @@
     - https://www.aquasec.com/blog/cicd-pipeline-security-tool-tracee/
 - Cue - Data validation language - https://cuelang.org/
     - https://cuelang.org/docs/introduction/
+- Mergen
+    - https://github.com/petrgazarov/salami  
+    - https://github.com/sametsazak/mergen  
+- Trivy's misconfiguration scanning engine - https://github.com/aquasecurity/defsec
+- SASTScan - free & Open Source DevSecOps tool for performing static analysis based security testing of your applications and its dependencies. CI and Git friendly 
+    - https://github.com/ShiftLeftSecurity/sast-scan
+- DepScan - security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies 
+    - https://github.com/owasp-dep-scan/dep-scan
+- https://www.pynt.io/
+- https://hadolint.github.io/hadolint/
+- UBlock - efficient blocker for Chromium and Firefox - https://github.com/gorhill/uBlock
+- automatically give AWS IAM users access to your Kubernetes cluster - https://github.com/Qovery/iam-eks-user-mapper
+- Cleaning up images from Kubernetes nodes - https://github.com/eraser-dev/eraser
+- Flowpipe - https://flowpipe.io/
+    - https://github.com/turbot/flowpipe
+    - https://steampipe.io/
+- document and assess any security automation in your SOC - https://github.com/tuckner/automation-capability-matrix
+- KubeClarity - detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems - https://github.com/openclarity/kubeclarity
+- IceKube - Attack paths in k8s clusters
+    - https://github.com/WithSecureLabs/IceKube
+    - https://labs.withsecure.com/tools/icekube--finding-complex-attack-paths-in-kubernetes-clusters
+- Map cloudtrail data to Mitre ATT&CK - https://github.com/zmallen/cloudtrail2sightings
+- CloudSecGPT - https://blog.marcolancini.it/2023/blog-cloudsecgpt/
+- CHEN (Code Hierarchy Exploration Net) - https://github.com/AppThreat/chen
+- A curated list of GPT agents for cybersecurity - https://github.com/fr0gger/Awesome-GPT-Agents
+- aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code
+    - https://github.com/aws-samples/aws2tf
+- Chainguard - Automated testing, generation & manipulation of #osquery packs
+    - https://github.com/chainguard-dev/osqtool
+- open library of adversary emulation plans designed to empower organizations to test their defenses based on real-world TTPs
+    - https://github.com/center-for-threat-informed-defense/adversary_emulation_library
+- Semgrep tool - https://gitlab.com/lapt0r/border-collie
+- SSH-Snake - a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery
+    - https://github.com/MegaManSec/SSH-Snake
+- https://drew-sec.github.io/EvilSlackbot/
+- Dive - tool for exploring & shrinking each layer in a docker image
+    - https://github.com/wagoodman/dive
