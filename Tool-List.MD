@@ -44,3 +44,4 @@
 - https://drew-sec.github.io/EvilSlackbot/
 - Dive - tool for exploring & shrinking each layer in a docker image
     - https://github.com/wagoodman/dive
+- ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys
