@@ -20,9 +20,12 @@
 - UBlock - efficient blocker for Chromium and Firefox - https://github.com/gorhill/uBlock
 - automatically give AWS IAM users access to your Kubernetes cluster - https://github.com/Qovery/iam-eks-user-mapper
 - Cleaning up images from Kubernetes nodes - https://github.com/eraser-dev/eraser
-- Flowpipe - https://flowpipe.io/
-    - https://github.com/turbot/flowpipe
-    - https://steampipe.io/
+- Turbot - https://turbot.com/
+    - Flowpipe - https://flowpipe.io/
+        - https://github.com/turbot/flowpipe
+        - https://steampipe.io/
+    - Guardrails - https://turbot.com/guardrails
+    - Pipes - https://turbot.com/pipes
 - document and assess any security automation in your SOC - https://github.com/tuckner/automation-capability-matrix
 - KubeClarity - detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems - https://github.com/openclarity/kubeclarity
 - IceKube - Attack paths in k8s clusters
@@ -45,3 +48,62 @@
 - Dive - tool for exploring & shrinking each layer in a docker image
     - https://github.com/wagoodman/dive
 - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys
+    - https://github.com/SpiderLabs/ModSecurity
+- Ostorlab - security scanning orchestrator
+    - https://ostorlab.co
+    - https://github.com/Ostorlab/KEV
+- Terraformer - CLI tool to generate terraform from existing infrastructure - https://github.com/GoogleCloudPlatform/terraformer
+- TFLint - https://github.com/terraform-linters/tflint
+- Datree - k8s misconfigurations - https://www.datree.io
+- Konstraint - policy management tool for interacting with OPA Gatekeeper - https://github.com/plexsystems/konstraint
+- Kuma - multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project - https://github.com/kumahq/kuma
+- Envoy proxy - https://www.envoyproxy.io/
+- KubeArmor - K8s Runtime Security Enforcement System
+    - https://kubearmor.io/
+    - https://github.com/kubearmor/KubeArmor
+- Infisical - open source secrets management
+    - https://infisical.com/
+    - https://github.com/Infisical/infisical
+- Git Secret - bash-tool to store your private data inside a git repository - https://github.com/sobolevn/git-secret
+- VAmPI - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing - https://github.com/erev0s/VAmPI
+- HoppScotch - open source postman alternative
+    - https://docs.hoppscotch.io/
+    - https://hoppscotch.io/
+    - https://github.com/hoppscotch/hoppscotch
+- Kraken CI - open source self-hosted CI
+    - https://kraken.ci/
+    - https://github.com/Kraken-CI/kraken
+- Backstage - open source developer portal framework
+    - https://backstage.io/
+    - https://github.com/backstage/backstage
+- Buildbot - Python-based continuous integration testing framework
+    - https://buildbot.net/
+    - https://github.com/buildbot/buildbot/
+- Ceph - open source distributed storage system
+    - https://ceph.io/en/
+    - https://github.com/ceph/ceph
+- Digger - terraform pull request automation - self-hosted or github actions app
+    - https://digger.dev/
+    - https://github.com/diggerhq/digger
+- Secure Codebox - Automated Security Testing Tool - https://www.securecodebox.io/
+- OWASP - https://owasp.org/projects/
+    - Nettacker - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
+        - https://github.com/owasp/nettacker
+    - OWTF - Open Web Testing Framework
+        - https://owasp.org/www-project-owtf/
+        - https://github.com/owtf/owtf
+    - BLT - Bug Logging Tool
+        - https://blt.owasp.org/
+        - https://owasp.org/www-project-bug-logging-tool/
+    - DSOMM - DevSecOps Maturity Model - https://owasp.org/www-project-devsecops-maturity-model/
+    - SAMM - SOftware Assurance Maturity Model - https://owasp.org/www-project-samm/
+- Terranetes - Self serve cloud resources with Terraform & Kubernetes
+    - https://terranetes.appvia.io/
+    - https://terranetes.appvia.io/terranetes-controller/
+    - https://github.com/appvia/terranetes
+    - https://github.com/appvia/terranetes-controller
+- Kubewarden - Policy as Code engine for K8s
+    - https://www.kubewarden.io/
+    - https://github.com/kubewarden
+- jsPolicy - k8s policies with javascript or typescript - https://www.jspolicy.com/
+- 
