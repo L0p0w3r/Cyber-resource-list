@@ -47,7 +47,7 @@
 - https://drew-sec.github.io/EvilSlackbot/
 - Dive - tool for exploring & shrinking each layer in a docker image
     - https://github.com/wagoodman/dive
-- ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys
+- ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis
     - https://github.com/SpiderLabs/ModSecurity
 - Ostorlab - security scanning orchestrator
     - https://ostorlab.co
@@ -96,7 +96,10 @@
         - https://blt.owasp.org/
         - https://owasp.org/www-project-bug-logging-tool/
     - DSOMM - DevSecOps Maturity Model - https://owasp.org/www-project-devsecops-maturity-model/
-    - SAMM - SOftware Assurance Maturity Model - https://owasp.org/www-project-samm/
+    - SAMM - Software Assurance Maturity Model - https://owasp.org/www-project-samm/
+    - ASVS - Application Security Verification Standard 
+        - https://owasp.org/www-project-application-security-verification-standard/
+        - https://github.com/OWASP/ASVS
 - Terranetes - Self serve cloud resources with Terraform & Kubernetes
     - https://terranetes.appvia.io/
     - https://terranetes.appvia.io/terranetes-controller/
@@ -106,4 +109,44 @@
     - https://www.kubewarden.io/
     - https://github.com/kubewarden
 - jsPolicy - k8s policies with javascript or typescript - https://www.jspolicy.com/
-- 
+- LinkerD - Service mesh - https://linkerd.io/
+- Istio - Service mesh - https://istio.io/
+- Traefik - ingress solutions - https://traefik.io/
+- Malcontent - supply chain malware discovery tool - https://github.com/chainguard-dev/malcontent
+- NamespaceHound - tool for detecting the risk of potential namespace crossing violations in multi-tenant clusters - https://github.com/wiz-sec-public/namespacehound
+- PoIEx - Points of Intersection Explorer for code reviews
+    - https://blog.doyensec.com/2024/01/30/poiex-release.html
+    - https://github.com/doyensec/PoiEx
+- WeAudit - collaborative code review tool for VSCode - https://marketplace.visualstudio.com/items?itemName=trailofbits.weaudit
+- TrustOnCloud threat models - https://github.com/trustoncloud
+- TrailDiscover - AWS CloudTrail TTP library related to ATT&CK - https://traildiscover.cloud/
+    - https://medium.com/@adan.alvarez/introducing-traildiscover-simplifying-access-to-security-insights-about-cloudtrail-events-cde14508f2e9
+    - https://github.com/adanalvarez/TrailDiscover
+- DevPod - open source Codespaces alternative - https://devpod.sh/
+    - https://github.com/loft-sh/devpod
+- JNV - json viewer and jq filter editor - https://github.com/ynqa/jnv
+- Open-API-TUI - Terminal UI to list, browse and run APIs defined with openapi spec - https://github.com/zaghaghi/openapi-tui
+- IAMGraph - Tool to model AWS IAM role trust relationships and assume role paths to Neo4j graph database - https://github.com/WithSecureLabs/IAMGraph
+- Gram - Klarna's own threat model diagramming tool - https://github.com/klarna-incubator/gram
+- OpenFunction - Cloud Native Function-as-a-Service Platform
+    - https://openfunction.dev/
+    - https://github.com/OpenFunction/OpenFunction
+- Dagger - engine to run pipelines in containers - https://dagger.io/
+    - https://github.com/dagger/dagger
+- AppView - Instrument, Observe, Secure - https://appview.org/
+    - https://github.com/appview-team/appview
+- Task Ninja - Task automation framework for pentesting etc - https://github.com/RikunjSindhwad/Task-Ninja
+- Nix & NixOS - reliable package management - https://nixos.org/
+- CloudGrappler - tool for querying of high-fidelity and single-event detections related to well-known threat actors in popular cloud environments
+    - https://github.com/Permiso-io-tools/CloudGrappler
+- sslscan - tests SSL/TLS enabled services to discover supported cipher suites - https://github.com/rbsec/sslscan
+- SSLyze - Fast and powerful SSL/TLS scanning library - https://github.com/nabla-c0d3/sslyze
+- Atlantis - Terraform Pull Request Automation - https://www.runatlantis.io/
+- Libyear Maven Plugin - Maven implementation of the libyear dependency freshness measure - https://github.com/mfoo/libyear-maven-plugin
+- Project Discovery - vulnerability detection tool suite - https://projectdiscovery.io/
+    - https://docs.projectdiscovery.io/introduction
+    - https://github.com/projectdiscovery
+- HoneyTrail - AWS honeytrap & dedicated cloudtrail generator - https://github.com/adanalvarez/HoneyTrail
+- Docker phobia - image size analysis & shrinking - https://github.com/remorses/docker-phobia
+- Known Breaches - Collection of known data breaches updated daily - https://breaches.dls.sh/
+    - https://github.com/notdls/known-breaches
