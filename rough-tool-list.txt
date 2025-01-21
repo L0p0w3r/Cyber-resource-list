@@ -1,0 +1,39 @@
+Fuzz Map
+fail2ban/fail2ban: Daemon to ban hosts that cause multiple authentication errors
+JanielDary/ELFieScanner: A C++ tool for process memory scanning & suspicious telemetry generation that attempts to detect a number of malicious techniques used by threat actors & those which have been incorporated into open-source user-mode rootkits.
+incidentalhq/incidental: An opensource incident management platform integrating with Slack.
+mikhail-m1/axe: AWS CloudWatch log viewer
+tarsal-oss/kflowd: Kernel-based Process Monitoring on Linux Endpoints for File System, TCP and UDP Networking Events and optionally DNS and HTTP Application Messages via eBPF Subsystem
+kflow - Tarsal
+CERT-Polska/mailgoose: A web application that allows the users to check whether their SPF, DMARC and DKIM configuration is set up correctly.
+Introducing YetiHunter: An open-source tool to detect and hunt for suspicious activity in Snowflake
+deggja/netfetch: Kubernetes tool for scanning clusters for network policies and identifying unprotected workloads.
+muchdogesec/txt2stix: txt2stix is a Python script that is designed to identify and extract IoCs and TTPs from text files, identify the relationships between them, convert them to STIX 2.1 objects, and output as a STIX 2.1 bundle.
+fluxcd/image-automation-controller: GitOps Toolkit controller that patches container image tags in Git
+[2407.08708] eyeballvul: a future-proof benchmark for vulnerability detection in the wild
+incidentalhq/incidental: An opensource incident management platform integrating with Slack.
+Incidental - Open source incident management
+GitHub - dwillowtree/diana: Save toil in security operations with: Detection & Intelligence Analysis for New Alerts (D.I.A.N.A. )
+GitHub - DuneGroup/ice-axe
+GitHub - digitalis-io/vals-operator: Kubernetes Operator to sync secrets between different secret backends and Kubernetes
+GitHub - dubrowin/AWS-Reasonable-Account-Defaults: CloudFormation template to create reasonable account defaults around Cost Surprise Alerting
+GitHub - hotnops/apeman: AWS Attack Path Management Tool - Walking on the Moon
+GitHub - cisagov/ScubaGear: Automation to assess the state of your M365 tenant against CISA's baselines
+GitHub - WebFuzzing/EvoMaster: The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift).
+GitHub - jthack/ffufai: AI-powered ffuf wrapper
+GitHub - RoseSecurity/Red-Teaming-TTPs: Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
+Kubernetes Testing Environment for EKS, GKE, AKS | Orca Security
+GitHub - hotnops/apeman: AWS Attack Path Management Tool - Walking on the Moon
+GitHub - duo-labs/parliament: AWS IAM linting library
+GitHub - welldone-cloud/aws-lint-iam-policies
+GitHub - WithSecureLabs/IAMSpy
+GitHub - RhinoSecurityLabs/pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+GitHub - Fennerr/PMapper: A tool for quickly evaluating IAM permissions in AWS.
+GitHub - openai/openai-security-bots
+GitHub - StevenSmiley/aws-mine: AWS honey token manager
+GitHub - DataDog/grimoire: Generate datasets of cloud audit logs for common attacks
+GitHub - zitadel/zitadel: ZITADEL - Identity infrastructure, simplified for you.
+GitHub - rabbitstack/fibratus: Adversary tradecraft detection, protection, and hunting
+GitHub - Escape-Technologies/API-Threat-Matrix: A comprehensive knowledge base for security professionals to keep track of and build defenses against API attack techniques.
+GitHub - salesforce/cloudsplaining: Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+owasp-dep-scan/dep-scan: OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration. Discord: Join the AppThreat Community Discord Server! 
