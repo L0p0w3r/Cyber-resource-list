@@ -1,11 +1,11 @@
-Fuzz Map
-fail2ban/fail2ban: Daemon to ban hosts that cause multiple authentication errors
-JanielDary/ELFieScanner: A C++ tool for process memory scanning & suspicious telemetry generation that attempts to detect a number of malicious techniques used by threat actors & those which have been incorporated into open-source user-mode rootkits.
-incidentalhq/incidental: An opensource incident management platform integrating with Slack.
-mikhail-m1/axe: AWS CloudWatch log viewer
-tarsal-oss/kflowd: Kernel-based Process Monitoring on Linux Endpoints for File System, TCP and UDP Networking Events and optionally DNS and HTTP Application Messages via eBPF Subsystem
-kflow - Tarsal
-CERT-Polska/mailgoose: A web application that allows the users to check whether their SPF, DMARC and DKIM configuration is set up correctly.
+- fail2ban - Daemon to ban hosts that cause multiple authentication errors - https://github.com/fail2ban/fail2ban
+- ELFieScanner - A C++ tool for process memory scanning & suspicious telemetry generation that attempts to detect a number of malicious techniques used by threat actors & those which have been incorporated into open-source user-mode rootkits. 
+    - https://github.com/JanielDary/ELFieScanner
+- Incidental - An opensource incident management platform integrating with Slack - https://github.com/incidentalhq/incidental
+- Axe - AWS CloudWatch log viewer - https://github.com/mikhail-m1/axe
+- Kflowd - Kernel-based Process Monitoring on Linux Endpoints for File System, TCP and UDP Networking Events and optionally DNS and HTTP Application Messages via eBPF Subsystem 
+    - https://github.com/tarsal-oss/kflowd
+- Mailgoose - A web application that allows the users to check whether their SPF, DMARC and DKIM configuration is set up correctly - https://github.com/CERT-Polska/mailgoose
 Introducing YetiHunter: An open-source tool to detect and hunt for suspicious activity in Snowflake
 deggja/netfetch: Kubernetes tool for scanning clusters for network policies and identifying unprotected workloads.
 muchdogesec/txt2stix: txt2stix is a Python script that is designed to identify and extract IoCs and TTPs from text files, identify the relationships between them, convert them to STIX 2.1 objects, and output as a STIX 2.1 bundle.
