@@ -5,6 +5,7 @@ https://tldrsec.com/p/software-supply-chain-vendor-landscape
 https://tldrsec.com/p/blog-insecure-development-why-some-product-teams-are-great-and-others-arent  
 https://tldrsec.com/p/blog-appsec-cali-2019-lessons-learned-from-the-devsecops-trenches  
 - Clint Gibler - How to 10X your security presentation - https://docs.google.com/presentation/d/1lfEvXtw5RTj3JmXwSQDXy8or87_BHrFbo1ZtQQlHbq0/edit?pli=1#slide=id.g6555b225cd_0_1069
+
 https://techbeacon.com/app-dev-testing/how-scale-security-devsecops-4-valuable-mindsets-principles  
 https://netflixtechblog.medium.com/scaling-appsec-at-netflix-6a13d7ab6043  
 https://openviewpartners.com/blog/what-is-minimum-viable-security-mvs/#.YhINjt9Bxzo  
