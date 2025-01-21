@@ -1,9 +1,9 @@
-How to introduce Semgrep to your organization | Trail of Bits Blog  
-Edition 18: The diminishing returns of DAST  
-How pentesting mirrors the evolution of quality assurance  
-False Positives and False Negatives with Images Scanners — Chainguard Academy  
-Using external secrets in CI | GitLab  
-Opening Pandora’s box - Supply Chain Insider Threats in Open Source projects  
+https://blog.trailofbits.com/2024/01/12/how-to-introduce-semgrep-to-your-organization/  
+https://boringappsec.substack.com/p/edition-18-the-diminishing-returns  
+https://tldrsec.com/p/ross-pentesting-qa  
+https://edu.chainguard.dev/chainguard/chainguard-images/staying-secure/working-with-scanners/false-results/  
+https://docs.gitlab.com/ee/ci/secrets/  
+https://boostsecurity.io/blog/opening-pandora-box-supply-chain-insider-threats-in-oss-projects  
 How to stay safe from repo-jacking - The GitHub Blog  
 Kubernetes RBAC: Role-Based Access Control  
 Speed Meets Security: How Bottlerocket Optimizes EKS Workloads  
