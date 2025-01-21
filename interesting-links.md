@@ -84,3 +84,4 @@ https://tldrsec.com/p/ross-pentesting-qa
 https://edu.chainguard.dev/chainguard/chainguard-images/staying-secure/working-with-scanners/false-results/  
 https://docs.gitlab.com/ee/ci/secrets/  
 https://boostsecurity.io/blog/opening-pandora-box-supply-chain-insider-threats-in-oss-projects  
+https://orca.security/resources/blog/kubernetes-testing-environment/  
