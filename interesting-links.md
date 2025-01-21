@@ -78,3 +78,9 @@ https://securitylabs.datadoghq.com/articles/from_detection_to_enforcement_migrat
 https://www.youtube.com/watch?v=wru_AyiZdlY  
 https://tide.org/  
 https://seifrajhi.github.io/blog/eks-detect-manual-actions/
+https://blog.trailofbits.com/2024/01/12/how-to-introduce-semgrep-to-your-organization/  
+https://boringappsec.substack.com/p/edition-18-the-diminishing-returns  
+https://tldrsec.com/p/ross-pentesting-qa  
+https://edu.chainguard.dev/chainguard/chainguard-images/staying-secure/working-with-scanners/false-results/  
+https://docs.gitlab.com/ee/ci/secrets/  
+https://boostsecurity.io/blog/opening-pandora-box-supply-chain-insider-threats-in-oss-projects  
