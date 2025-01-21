@@ -42,3 +42,4 @@ https://www.invicti.com/blog/security-labs/brainstorm-tool-release-optimizing-we
 https://securitylabs.datadoghq.com/articles/from_detection_to_enforcement_migrating_from_imdsv1_to_imdsv2/  
 https://www.youtube.com/watch?v=wru_AyiZdlY  
 https://tide.org/  
+https://seifrajhi.github.io/blog/eks-detect-manual-actions/
