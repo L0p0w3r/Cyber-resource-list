@@ -26,7 +26,6 @@
 - EvoMaster - The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift) - https://github.com/WebFuzzing/EvoMaster
 - ffufai - AI-powered ffuf wrapper - https://github.com/jthack/ffufai
 - Red-Teaming-TTPs - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike! - https://github.com/RoseSecurity/Red-Teaming-TTPs
-- Kubernetes Testing Environment for EKS, GKE, AKS | Orca Security
 - Parliament - AWS IAM linting library - https://github.com/duo-labs/parliament
 - AWS-lint-iam-policies - Runs IAM policy linting and security checks against either a single AWS account or a set of member accounts of an AWS Organization - https://github.com/welldone-cloud/aws-lint-iam-policies
 - IAMSpy - library that utilises the Z3 prover to attempt to answer questions about AWS IAM - https://github.com/WithSecureLabs/IAMSpy
