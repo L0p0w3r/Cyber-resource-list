@@ -150,4 +150,10 @@
 - Docker phobia - image size analysis & shrinking - https://github.com/remorses/docker-phobia
 - Known Breaches - Collection of known data breaches updated daily - https://breaches.dls.sh/
     - https://github.com/notdls/known-breaches
+- IAM Zero - Identity & Access Management simplified and secure - https://iamzero.dev/
+    - https://github.com/common-fate/iamzero
+    - https://iamzero.dev/docs/getting-started
+- IAM Ape - combines all AWS permissions for an entity into single policy - https://github.com/orcasecurity/orca-toolbox/tree/main/iam-ape
+- SPIFFE - Secure Production Identity Framework For Everyone - https://spiffe.io/
+- Dorothy - test Okta security monitoring & detection - https://github.com/elastic/dorothy
 - 
